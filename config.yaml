@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-US
-title: A Hugo website
+title: L'Atelier des embruns
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,20 +8,39 @@ ignoreFiles:
   - \.Rmd$
   - \.Rmarkdown$
   - _cache$
+  - \.gitignire
+  - \.Rprofile
+  - \.Rhistory
+  - \.RData
 permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: About
+    - pageRef: /
+      name: Accueil
+      url:
+      weight: 10
+    - pageRef: about
+      name: Qui suis-je?
       url: /about/
-    - name: GitHub
-      url: https://github.com/rstudio/blogdown
-    - name: Twitter
-      url: https://twitter.com/rstudio
+      weight: 20
+    - pageRef: aquarelles 
+      name: Aquarelles
+      url: /aquarelles/
+      weight: 30
+    - pageRef: /paysage/
+      name: Paysages
+      url: /aquarelles/paysages
+      parent: Aquarelles
+      weight: 31  
+    - pageRef: contact
+      name: Contact
+      url: /contact/ 
+      weight: 40
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
-  description: A website built through Hugo and blogdown.
+  description: "L'atelier des embruns, aquarelles insiprées par la nature"
   favicon: favicon.ico
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   highlightjsLang:
@@ -34,6 +53,7 @@ params:
     height: 50
     url: logo.png
     width: 50
+  footer: "&copy; L'atelier des embruns by [Marion Couëdel](https://https://www.instagram.com/seas_sewing/) 2023"
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
@@ -41,3 +61,4 @@ markup:
       unsafe: yes
   highlight:
     codeFences: no
+assetDir: static
