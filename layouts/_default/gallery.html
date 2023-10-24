@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+
+
+<main>
+{{ .Content }}
+{{ partial "image-gallery" (dict "context" . "gallery_dir" "/album") }}
+</main>
+
+{{ partial "footer.html" . }}

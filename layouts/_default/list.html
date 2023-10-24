@@ -14,4 +14,30 @@
   {{ end }}
 </ul>
 
+<p> Test 1 </p>
+{{ $paginator := .Paginate .Pages.ByDate.Reverse 6 }}
+<div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
+  {{ range $paginator.Pages }}
+    {{- partial "blog-card.html" . -}}
+  {{ end }}
+</div>
+ 
+{{- partial "pagination.html" . -}}
+
+<p> Test 2 </p>
+{{ range $paginator.Pages }}
+<div class="item">
+  <a href="{{ .Permalink }}">
+      {{- $image := resources.Get .Params.featured_image -}}
+      <img src="{{ index .Params "featured_image" }}" alt="{{ .Title }}">
+      <div>
+       {{ .Params.title }}
+      </div>
+  </a>
+</div>
+{{ end }}
+
+<p> Test 3 </p>
+{{ with .Params.featured_image }}<img src="{{ . }}">{{ end }}
+
 {{ partial "footer.html" . }}

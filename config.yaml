@@ -33,6 +33,11 @@ menu:
       url: /aquarelles/paysages
       parent: Aquarelles
       weight: 31  
+    - pageRef: /localities/
+      name: Par localité
+      url: /aquarelles/localities
+      parent: Aquarelles
+      weight: 39
     - pageRef: contact
       name: Contact
       url: /contact/ 
@@ -51,7 +56,7 @@ params:
   logo:
     alt: Logo
     height: 50
-    url: logo.png
+    url: /logo.png
     width: 50
   footer: "&copy; L'atelier des embruns by [Marion Couëdel](https://https://www.instagram.com/seas_sewing/) 2023"
 markup:
@@ -61,4 +66,5 @@ markup:
       unsafe: yes
   highlight:
     codeFences: no
-assetDir: static
+assetDir: static 
+
