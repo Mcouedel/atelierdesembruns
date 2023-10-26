@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Les paysages de La Réunion on L&#39;Atelier des embruns</title>
+    <link>/aquarelles/paysages/reunion/</link>
+    <description>Recent content in Les paysages de La Réunion on L&#39;Atelier des embruns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/aquarelles/paysages/reunion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cilaos ~ Bassin Fouquet</title>
+      <link>/aquarelles/paysages/reunion/cilaos-bassin-fouquet/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/aquarelles/paysages/reunion/cilaos-bassin-fouquet/</guid>
+      <description>Magnifique bassin au coeur du cirque de Cilaos, facilement accessible après une courte randonnée mais très pentue.</description>
+    </item>
+    
+    <item>
+      <title>Cap Jaune</title>
+      <link>/aquarelles/paysages/reunion/cap-jaune/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/aquarelles/paysages/reunion/cap-jaune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mafate ~ Bassin la Noix</title>
+      <link>/aquarelles/paysages/reunion/mafate-bassin-la-noix/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/aquarelles/paysages/reunion/mafate-bassin-la-noix/</guid>
+      <description>Après 6 ans à habiter sur l&amp;rsquo;île de La Réunion, j&amp;rsquo;ai pu enfin peindre le coeur de Mafate, l&amp;rsquo;ilet à Malheur.</description>
+    </item>
+    
+    <item>
+      <title>Mafate ~ Ilet à Malheur</title>
+      <link>/aquarelles/paysages/reunion/mafate-ilet-malheur/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/aquarelles/paysages/reunion/mafate-ilet-malheur/</guid>
+      <description>Après 6 ans à habiter sur l&amp;rsquo;île de La Réunion, j&amp;rsquo;ai pu enfin peindre le coeur de Mafate, l&amp;rsquo;ilet à Malheur.</description>
+    </item>
+    
+  </channel>
+</rss>

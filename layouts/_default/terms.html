@@ -1,0 +1,22 @@
+{{ partial "header.html" . }}
+{{ .Content }}
+
+{{ $data := .Data }}
+{{ range $key,$value := .Data.Terms.ByCount }}
+  <div class="container-fluid p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div class="card_terms">
+          <div class="card_terms_img">
+              <a href="{{ .Page.Permalink }}">
+                <img src="{{ $value.Name | urlize }}/featured.jpg">
+              </a>
+          </div>
+          <div class="card_terms_txt">
+                  <a class="terms_txt" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+                  {{ $pageCount := len .Pages }}
+                  <p>{{ $pageCount }} aquarelles {{ if ne $pageCount 1 }}s{{ end }} </p>
+          </div>
+      </div>
+  </div>
+  {{ end }}
+
+{{ partial "footer.html" . }}

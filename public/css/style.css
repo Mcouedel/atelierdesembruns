@@ -5,7 +5,7 @@ body {
   line-height: 1.5;
 }
 
-/* header and footer areas */
+/*header and footer areas*/
 .site-title {
   padding: 150px;
   background-image: url("header-with-title.png");
@@ -372,3 +372,74 @@ thead, tfoot, tr:nth-child(even) { background: #eee; }
   text-align: center;
 }
 
+/* card for list*/
+.featured_card {
+  position: relative;
+  outline: none ;
+  text-decoration: none;
+  display: inline-block;
+  width: 250px;
+  color: black;
+  background-color: papayawhip;
+  text-align: center;
+  margin: 20px;
+}
+
+.featured_img {
+  position: relative;
+  width: 100%;
+  background-color: papayawhip;
+  vertical-align: middle;
+  display: table;
+  height:auto;
+  padding: 0px;
+  text-decoration: none;
+ }
+ .featured_card a {
+   color: black;
+   vertical-align: middle;
+ }
+ .featured_img img {
+  width: 100%;
+   }
+ .featured_txt a {
+  vertical-align: middle;
+  color: black;
+  text-decoration: none;
+ }
+
+ /* card for terms of taxonomy*/
+.card_terms {
+  position: relative;
+  outline: none ;
+  text-decoration: none;
+  display: inline-block;
+  width: 250px;
+  color: black;
+  background-color: papayawhip;
+  text-align: center;
+  margin: 20px;
+}
+
+.featured_img {
+  position: relative;
+  width: 100%;
+  background-color: papayawhip;
+  vertical-align: middle; 
+  display: table;
+  height:auto;
+  padding: 0px;
+  text-decoration: none;
+ }
+ .featured_card a {
+   color: black;
+   vertical-align: middle;
+ }
+ .featured_img img {
+  width: 100%;
+   }
+ .featured_txt a {
+  vertical-align: middle;
+  color: black;
+  text-decoration: none;
+ }

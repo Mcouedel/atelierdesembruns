@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+
+{{ .Content }}
+
+{{ $paginator := .Paginate .Pages.ByDate.Reverse 6 }}
+<div class="container-fluid p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+  {{ range $paginator.Pages }}
+    {{- partial "blog-card.html" . -}}
+  {{ end }}
+</div>
+ 
+<p></p>
+
+<center>
+<a href="/aquarelles">
+  <button class="btn_bleu"> Les autres aquarelles </button></a> 
+</center>
+{{ partial "footer.html" . }}

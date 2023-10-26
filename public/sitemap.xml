@@ -5,55 +5,58 @@
     <loc>/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/animaux/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/categories/animaux/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/animaux-de-bretagne/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/bretagne/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/aquarelles/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/aquarelles/octopus-vulagris/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/organismes-marins/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+    <loc>/aquarelles/paysages/reunion/cilaos-bassin-fouquet/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/r%C3%A9cifs-coralliens/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+    <loc>/localities/la-r%C3%A9union/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+    <loc>/aquarelles/paysages/reunion/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+    <loc>/localities/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/paysage/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/series/paysage-de-la-r%C3%A9union/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/aquarelles/paysages/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/aquarelles/paysages/reunion/cap-jaune/</loc>
+    <lastmod>2023-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/aquarelles/paysages/reunion/mafate-bassin-la-noix/</loc>
+    <lastmod>2022-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/aquarelles/paysages/reunion/mafate-ilet-malheur/</loc>
+    <lastmod>2022-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2020/12/01/hello-r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>/categories/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>/2016/12/30/a-plain-markdown-post/</loc>
@@ -68,11 +71,7 @@
     <loc>/2015/01/01/lorem-ipsum/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url><url>
-    <loc>/tags/category1/</loc>
-  </url><url>
-    <loc>/aquarelles/paysages/</loc>
-  </url><url>
-    <loc>/tags/category1/</loc>
+    <loc>/aquarelles/localities/</loc>
   </url><url>
     <loc>/aquarelles/marinelife/</loc>
   </url>

@@ -1,8 +1,0 @@
----
-title: "Végétaux"
-output: html_document
-tags: 
-- "category1"
----
-
-catégorie 1

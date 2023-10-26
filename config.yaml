@@ -28,20 +28,28 @@ menu:
       name: Aquarelles
       url: /aquarelles/
       weight: 30
+    - pageRef: /naturalistes/
+      name: Illustrations naturalistes
+      url: /aquarelles/naturalistes
+      parent: Aquarelles
+      weight: 31
     - pageRef: /paysage/
       name: Paysages
-      url: /aquarelles/paysages
+      url: /aquarelles/paysages 
       parent: Aquarelles
-      weight: 31  
+      weight: 32  
     - pageRef: /localities/
       name: Par localité
-      url: /aquarelles/localities
-      parent: Aquarelles
+      url: /localities/
+      parent: Aquarelles 
       weight: 39
     - pageRef: contact
       name: Contact
       url: /contact/ 
       weight: 40
+    - name: Par catégories
+      url: /categories/
+      parent: Aquarelles
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
@@ -67,4 +75,7 @@ markup:
   highlight:
     codeFences: no
 assetDir: static 
-
+taxonomies:
+  categories: "categories"
+  localities: "localities"
+  series: "series"

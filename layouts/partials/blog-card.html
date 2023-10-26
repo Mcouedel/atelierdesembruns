@@ -1,11 +1,13 @@
-<div class="p-2">
+<div class="featured_card">
     <a href="{{ .Permalink }}">
-      {{ if .Params.featured_image }}
-      <div class="relative">
-        <img src="{{ . }}" alt="{{ .Title }}" class="rounded-lg shadow-sm w-full h-52 object-cover" />
-        </div>
+      {{ if .Resources.GetMatch "featured-image*" }}
+        {{ $image := .Resources.GetMatch "featured-image*" }}
+         {{ $image = $image.Resize "1200x" }}
+         <div class="featured_img">
+          <img src="{{ $image.Permalink }}" alt="{{ .Title }}"/>
+         </div>
       {{ end }}
-      <div class="my-2 text-xl font-semibold">{{ .Params.title }}</div>
+      <div class="featured_txt">{{ .Params.title }}</div>
       <div>{{ .Params.description }}</div>
     </a>
   </div>
