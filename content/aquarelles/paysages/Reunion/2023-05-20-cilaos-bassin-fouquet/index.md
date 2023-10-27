@@ -1,14 +1,13 @@
 ---
 title: Cilaos ~ Bassin Fouquet
 author: M. Couëdel
-date: '2023-05-20'
 slug: cilaos-bassin-fouquet
 categories:
   - Paysage
 localities:
   - La Réunion
 series:
-  - Paysage de La Réunion
+  - Paysages de La Réunion
 ---
 <center>
 <img alt="Bassin Fouquet à Cilaos" src="images/2023-06_BassinFouquet.jpg" width=50%> 

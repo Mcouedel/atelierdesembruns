@@ -43,13 +43,15 @@ menu:
       url: /localities/
       parent: Aquarelles 
       weight: 39
+    - pageRef: /categories/
+      name: Par catégories
+      url: /categories/
+      parent: Aquarelles
+      weight: 38
     - pageRef: contact
       name: Contact
       url: /contact/ 
       weight: 40
-    - name: Par catégories
-      url: /categories/
-      parent: Aquarelles
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5

@@ -5,9 +5,8 @@ date: '2022-11-12'
 slug: mafate-bassin-la-noix
 categories:
   - Paysage
-tags:
+Localities:
   - La Réunion
-featured_image: "images/2022-11-12_Mockup_BassinNoix.jpg"
 ---
 <center>
 <img alt="[Bassin la Noix à Mafate" src="images/2022-11-12_Mockup_BassinNoix.jpg" width=50%> 

@@ -1,11 +1,11 @@
 ---
 title: Cap Jaune
 author: M. Couëdel
-date: '2023-05-06'
 slug: cap-jaune
+layout: single
 categories:
   - Paysage
-tags:
+Localities:
   - La Réunion
 ---
 <center>
