@@ -1,6 +1,5 @@
 {{ partial "header.html" . }}
 {{ .Content }}
-<p> page terms</p>
 {{ $data := .Data }}
 {{ range $key,$value := .Data.Terms.ByCount }}
   <div class="container-fluid p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
