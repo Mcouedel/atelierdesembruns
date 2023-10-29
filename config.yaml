@@ -33,7 +33,7 @@ menu:
       url: /aquarelles/naturalistes
       parent: Aquarelles
       weight: 31
-    - pageRef: /paysage/
+    - pageRef: /paysage/ 
       name: Paysages
       url: /aquarelles/paysages 
       parent: Aquarelles
@@ -67,8 +67,12 @@ params:
     alt: Logo
     height: 50
     url: /logo.png
-    width: 50
+    width: 50 
   footer: "&copy; L'atelier des embruns by [Marion Couëdel](https://https://www.instagram.com/seas_sewing/) 2023"
+  contact:
+    instagram: "seas_sewing"
+    facebook: "latelierdesembruns"
+    color: "#a20c4c"
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
@@ -81,3 +85,4 @@ taxonomies:
   categories: "categories"
   localities: "localities"
   series: "series"
+  

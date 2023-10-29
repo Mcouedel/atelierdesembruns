@@ -3,36 +3,7 @@ title: ""
 author: "M. Couëdel"
 date: "18/10/2023"
 output: html_document
-layout: single
+layout: home
 ---
-<section class="block1">
-    <div class="block1_img">
-    <img src="/./_index_files/composition_fruits.png"  alt="Carnet avec deux poissons à l'aquarelle"/>
-    </div>
-    <div class="block1_txt">
-        <h1><span>Bienvenue</span></h1>
-        <p>Coucou vous ! <br> 
-        Bienvenue dans ma bulle aquarellée remplie d'illustrations inspirées de la nature !
-        </p> 
-        <br> 
-        <a href="/aquarelles">
-        <button class="btn_poupre">Mes aquarelles </button></a>
-    </div> 
-</section>
-<section class="block2">
-    <div class="block2_img">
-     <img src="/./_index_files/carnet_poissons.jpg"  alt="Carnet avec deux poissons à l'aquarelle"/>
-    <div class="block2_txt">
-     <div class="block2_inner">
-        <p>Scientifique le jour et créatrice la nuit, je suis inspirée par la nature et en par particulier le monde marin. 
-          <br> Proche de l'illustration naturaliste, je mets en avant a travers mes peintures des organismes plus ou moins connus du monde qui nous entours.
-          <br>Je profite également de mes voyages pour illustrer les paysages naturelles que j'ai eu la chance d'observer.
-          <br>Suivez-moi dans ma bulle aquarellé afin de redécouvrir le monde qui nous entours à travers mon univers colorés !
-        </p>
-        <br>  
-       <a href="/about">
-       <button class="btn_bleu">Qui suis-je ? </button></a> 
-       </div>
-     </div>
-    </div>
-</section>
+
+
