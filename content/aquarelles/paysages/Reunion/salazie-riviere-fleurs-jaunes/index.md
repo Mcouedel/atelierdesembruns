@@ -1,0 +1,18 @@
+---
+title: Salazie ~ Rivière Fleurs Jaune
+author: M. Couëdel
+date: ''
+slug: salazie-riviere-fleurs-jaunes
+categories:
+  - Paysage
+Localities:
+  - La Réunion
+series:
+  - Paysages de La Réunion
+---
+<center>
+<img alt="[Rivière Fleurs Jaunes à Salazie]" src="reunion-salazie-fleurs-jaunes-featured-image.jpg" width=50%> 
+
+La rivière Fleurs Jaunes serpente au seins du cirque de Salazie, entre Salazie et Grand Ilet. On peut remonté le cours d'eau et ainsi voir de plus près des magnifiques cascades, des grottes et de superbes gorges
+ 
+</center>

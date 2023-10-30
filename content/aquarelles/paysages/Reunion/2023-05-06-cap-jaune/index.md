@@ -1,5 +1,5 @@
 ---
-title: Cap Jaune
+title: Vincendo ~ Cap Jaune
 author: M. Couëdel
 slug: cap-jaune
 layout: single
@@ -9,8 +9,8 @@ Localities:
   - La Réunion
 ---
 <center>
-<img alt="La falaise de cap jaune" src="featured-image.jpg" width=50%> 
+<img alt="La falaise de cap jaune" src="reunion-cap-jaune-featured-image.jpg" width=50%> 
 
-
+Dans le Sud Sauvage à Vincendo, le Cap Jaune est une curiosité géologique d’une hauteur de 50 mètres. Le Cap Jaune est une falaise de couleur ocre formée par des coulées de lave se déversant dans l’eau.
  
 </center>

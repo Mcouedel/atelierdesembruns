@@ -7,10 +7,12 @@ categories:
   - Paysage
 Localities:
   - La Réunion
+series:
+  - Paysages de La Réunion
 ---
 <center>
-<img alt="[Bassin la Noix à Mafate" src="images/2022-11-12_Mockup_BassinNoix.jpg" width=50%> 
+<img alt="[Bassin la Noix à Mafate]" src="reunion-bassin-la-noix-featured-image.jpg" width=50%> 
 
-Après 6 ans à habiter sur l'île de La Réunion, j'ai pu enfin peindre le coeur de Mafate, l'ilet à Malheur.
+Situé entre Aurère et ilet à Malheur au coeur de Mafate, le bassin la noix permet de faire une petite halte rafraichissante après une longue randonnée. Au creux d'un canyon étroit et ombragé, la baignade possible mais attention aux genoux.
  
 </center>
