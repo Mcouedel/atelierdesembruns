@@ -8,7 +8,7 @@ ignoreFiles:
   - \.Rmd$
   - \.Rmarkdown$
   - _cache$
-  - \.gitignire
+  - \.gitignire 
   - \.Rprofile
   - \.Rhistory
   - \.RData

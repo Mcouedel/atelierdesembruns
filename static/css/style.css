@@ -4,6 +4,9 @@ body {
   padding: 1em;
   line-height: 1.5;
 }
+main {
+  position: relative;
+}
 .bottom {
   position: relative;
   display: block
@@ -154,7 +157,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
   .menu {
     border-bottom: 2px dashed #64a8a9;
     display: flex;
-justify-content: center;
+    justify-content: center;
   }
   .menu__btn {
     display: none;
