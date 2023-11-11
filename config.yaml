@@ -48,10 +48,6 @@ menu:
       url: /categories/
       parent: Aquarelles
       weight: 38
-    - pageRef: contact
-      name: Contact
-      url: /contact/ 
-      weight: 40
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
@@ -68,7 +64,7 @@ params:
     height: 50
     url: /logo.png
     width: 50 
-  footer: "&copy; L'atelier des embruns by [Marion Couëdel](https://https://www.instagram.com/seas_sewing/) 2023"
+  footer: "Merci de respecter mon travail, l'ensemble des images est soumis à droit d'auteur: &copy; L'atelier des embruns par [Marion Couëdel](https://https://www.instagram.com/seas_sewing/) 2023"
   contact:
     instagram: "seas_sewing"
     facebook: "latelierdesembruns"
