@@ -8,22 +8,22 @@ title: Qui suis-je ?
   font-family: Georgia;
   font-style: italic;
   font-size: 120%"; width: 80%;>
-Coucou ! <br> Moi c’est Marion, scientifique, couturière et aquarelliste et ce que j'aime plus que tout, c'est satisfaire ma curiosité et ma soif d'apprendre ! </p>
+Coucou ! <br> Moi c’est Marion, scientifique, couturière et aquarelliste. Ce que j'aime plus que tout, c'est satisfaire ma curiosité et ma soif d'apprendre ! </p>
 </center>
 <br>
 
 <div class="block2">
   <div class="block2_img" style=" background-color: papayawhip">
    <img src="quisuisje_img_1_1.png"  alt="Ma petite tête"/>
-  <div class="block2_txt" style=" background-color: papayawhip">
-   <div class="block2_inner">
-      <p style="color: #a20c4c">
-      J'ai commencé à peindre à l'acrylique tôt a coté de ma grand-mère peintre, couturière et cuisinière (je crois que c'est de famille les multiples hobbies 😇). Et puis avec mes études scientifiques, j'ai laissé mon coté créatif de coté, avec l'idée un peu bête qu'on était soit scientifique soit artistique (merci les préjugées du lycée).  
-<br><br>
-C'est finalement pendant ma thèse de doctorant que j'ai éprouvé le besoin de me reconnecter avec moi-même et d'exprimer cette créativité qui me manquait au quotidien. J'ai recommencé doucement avec un bullet journal (bujo pour les intimes) et quelques godets d'aquarelles. 
-<br><br>
-En parallèle, j'exprime aussi ma créativité en cousant ma garde robe et je suis fière de dire que je n'ai acheté aucun vêtement neuf depuis 4 ans !
-      </p>
+    <div class="block2_txt" style=" background-color: papayawhip">
+      <div class="block2_inner">
+        <p style="color: #a20c4c">
+        J'ai commencé à peindre des tableaux à l'acrylique au coté de ma grand-mère peintre, couturière et cuisinière (je crois que c'est de famille les multiples hobbies 😇). Et puis avec les études scientifiques, j'ai laissé mon coté créatif en stand-by, avec l'idée un peu simpliste qu'on était, soit scientifique, soit artistique (merci le formatage de la socièté).  
+        <br><br>
+        C'est finalement pendant ma thèse de doctorant que j'ai éprouvé le besoin de me reconnecter avec moi-même et d'exprimer cette créativité qui me manquait au quotidien. J'ai recommencé doucement avec un bullet journal (bujo pour les intimes) et quelques godets d'aquarelles. Et puis j'y ai repris goût et je me suis mis à enmener mes carnets et mes godets partout avec moi (surtput en rando même s'il faut tout porter 😅​)
+        <br><br>
+        En parallèle, j'exprime aussi ma créativité en cousant ma garde robe depuis 2019 et je suis fière de dire que je n'ai acheté aucun vêtement neuf depuis 4 ans !
+        </p>
       </div>
    </div>
   </div>
@@ -52,9 +52,9 @@ Je partage l'ensemble de mes créations sur Instagram, alors abonne-toi si le co
   <div class="block3_txt" style="">
    <div class="block3_inner">
       <p style="color: #2c4650">
-      L'aquarelle est un medium qui à l'air facile au premier abord mais on se rends bien vite compte que ce n'est pas le cas ! Il faut penser à laisser les blancs et à l'inverse de l'acrylique faut peindre les zones claires avant les foncées. Penser aux mélanges, au séchage, etc.  Mais c'est ça la beauté de l'aquarelle, on ne peut pas tout maîtrise et faut lâcher prise !  
+      L'aquarelle est un medium qui à l'air au premier abord facile mais on se rend bien vite compte que ce n'est pas du tout le cas ! ​😂​ Il faut réfléchir où laisser les blancs et à l'inverse de l'acrylique penser à peindre les zones claires avant les foncées ! Il faut aussi penser aux mélanges des couleurs et au timing du séchage, bref pas du tout détente dit comme ça. ​😂​ Mais c'est là qu'est toute la beauté de l'aquarelle ! On ne peut pas tout maîtriser et faut apprendre/savoir lâcher prise !  
 <br><br>
-On retrouve l'aquarelle en tube ou en godet, et ces derniers sont très pratique quand on voyage ! 
+L'aquarelle existe sous forme de tubes ou de godets, et ces derniers sont très pratiques lorsque l'on voyage où que l'on peint en extérieur ! (Mème si ça m'est arrivé que certains godets fondent avec la chaleur tropicale 😅)
       </p>
       </div>
    </div>
@@ -74,14 +74,14 @@ On retrouve l'aquarelle en tube ou en godet, et ces derniers sont très pratique
   <div class="block2_txt" style=" background-color: papayawhip">
    <div class="block2_inner">
       <p style="color: #a20c4c">
-      Actuellement mon travail m’amène à bouger beaucoup et déménager souvent. Je n'ai pas encore trouver la meilleure solution pour faire vivre sereinement l'atelier (avoir du stock par exemple). 
+      Actuellement mon travail m’amène à bouger beaucoup et déménager souvent. Je n'ai pas encore trouver la meilleure solution pour faire vivre sereinement l'atelier (et avoir du stock par exemple). 
       <br> Mais dans un futur proche j'aimerais réussir à :</p>
       <ul style="color: #a20c4c">
          <li> Vendre mes aquarelles sous format de cartes postales et posters </il>
          <li> Faire du design textile en imprimant mes motifs sur du tissus </il>
       </ul>
       <p style="color: #a20c4c">
-          Si vous souhaitez soutenir mon travail et acheter mes aquarelles vous pouvez prendre contact avec moi via Instagram et Facebook 😃
+          Si vous souhaitez soutenir mon travail et acheter mes aquarelles vous pouvez prendre contact avec moi via Instagram et Facebook 😃. Les liens sont ci-dessous : ​⬇️​
       </p>
       </div>
    </div>
