@@ -12,15 +12,15 @@ Coucou ! <br> Moi c’est Marion, scientifique, couturière et aquarelliste. Ce 
 </center>
 <br>
 
-<div class="block2">
+<div class="block2" style=" background-color: papayawhip; padding-top: 2%">
   <div class="block2_img" style=" background-color: papayawhip">
    <img src="quisuisje_img_1_1.png"  alt="Ma petite tête"/>
     <div class="block2_txt" style=" background-color: papayawhip">
       <div class="block2_inner">
         <p style="color: #a20c4c">
-        J'ai commencé à peindre des tableaux à l'acrylique au coté de ma grand-mère peintre, couturière et cuisinière (je crois que c'est de famille les multiples hobbies 😇). Et puis avec les études scientifiques, j'ai laissé mon coté créatif en stand-by, avec l'idée un peu simpliste qu'on était, soit scientifique, soit artistique (merci le formatage de la socièté).  
+        J'ai commencé à peindre des tableaux à l'acrylique au coté de ma grand-mère peintre, couturière et cuisinière (je crois que c'est de famille les multiples hobbies 😇). Et puis avec les études scientifiques, j'ai laissé mon coté créatif en stand-by, avec l'idée un peu simpliste qu'on était, soit scientifique, soit artistique (merci le formatage de la société).  
         <br><br>
-        C'est finalement pendant ma thèse de doctorant que j'ai éprouvé le besoin de me reconnecter avec moi-même et d'exprimer cette créativité qui me manquait au quotidien. J'ai recommencé doucement avec un bullet journal (bujo pour les intimes) et quelques godets d'aquarelles. Et puis j'y ai repris goût et je me suis mis à enmener mes carnets et mes godets partout avec moi (surtput en rando même s'il faut tout porter 😅​)
+        C'est finalement pendant ma thèse de doctorat que j'ai éprouvé le besoin de me reconnecter avec moi-même et d'exprimer cette créativité qui me manquait au quotidien. J'ai recommencé doucement avec un bullet journal (bujo pour les intimes) et quelques godets d'aquarelle. Et puis j'y ai repris goût et je me suis mise à enmener mes carnets et mes godets partout avec moi (surtout en rando même s'il faut tout porter 😅​)
         <br><br>
         En parallèle, j'exprime aussi ma créativité en cousant ma garde robe depuis 2019 et je suis fière de dire que je n'ai acheté aucun vêtement neuf depuis 4 ans !
         </p>
