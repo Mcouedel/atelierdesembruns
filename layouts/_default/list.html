@@ -3,7 +3,7 @@
 
 {{ .Content }}
 
-{{ $paginator := .Paginate .Pages.ByDate.Reverse 12 }}
+{{ $paginator := .Paginate .Pages.ByDate.Reverse 30 }}
 <div class="container-fluid p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
   <div class='row justify-content-center'>
   {{ range $paginator.Pages }}
