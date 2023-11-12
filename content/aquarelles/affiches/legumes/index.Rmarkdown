@@ -1,0 +1,16 @@
+---
+title: Assortiment de légumes
+author: ''
+date: ''
+slug: legumes
+categories:
+  - Naturaliste
+  - Affiche
+tags: []
+---
+<center>
+<img alt="[Légumes à l'aquarelle]" src="legumes-featured-image.jpg" width=50%> 
+<br>
+<br>
+Assortiment de légumes peint à l'aquarelle. S'associe très bien avec l'affiche des fruits tropicaux
+</center>
