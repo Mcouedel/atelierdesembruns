@@ -12,10 +12,8 @@ Coucou ! <br> Moi c’est Marion, scientifique, couturière et aquarelliste. Ce 
 </center>
 <br>
 
-<div class="block2" style=" background-color: papayawhip; padding-top: 2%">
-  <div class="block2_img" style=" background-color: papayawhip">
-   <img src="quisuisje_img_1_1.png"  alt="Ma petite tête"/>
-    <div class="block2_txt" style=" background-color: papayawhip">
+<div class="block2" style="background-color: papayawhip">
+    <div class="block2_txt" style="background-color: papayawhip;">
       <div class="block2_inner">
         <p style="color: #a20c4c">
         J'ai commencé à peindre des tableaux à l'acrylique au coté de ma grand-mère peintre, couturière et cuisinière (je crois que c'est de famille les multiples hobbies 😇). Et puis avec les études scientifiques, j'ai laissé mon coté créatif en stand-by, avec l'idée un peu simpliste qu'on était, soit scientifique, soit artistique (merci le formatage de la société).  
@@ -26,21 +24,22 @@ Coucou ! <br> Moi c’est Marion, scientifique, couturière et aquarelliste. Ce 
         </p>
       </div>
    </div>
+  <div class="block2_img" style=" background-color: papayawhip">
+   <img src="quisuisje_img_1_1.png"  alt="Ma petite tête"/>
   </div>
 </div>
+<br>
 <br>
 <center> 
 Je partage l'ensemble de mes créations sur Instagram, alors abonne-toi si le coeur y est !  
 <br>
 <br>
-
 <a href="https://www.instagram.com/seas_sewing/">
      <button class="btn_poupre">Me suivre sur Intagram </button></a>
-
 </center>
 
 
-<br><br>
+
 <h1 style="  color:  #436f77;
   font-family: Georgia;
   font-style: italic;
@@ -68,10 +67,8 @@ L'aquarelle existe sous forme de tubes ou de godets, et ces derniers sont très 
   font-size: 200%" > Mes perspectives pour l'atelier des embruns </h1>
 <br>
 
-<div class="block2">
-  <div class="block2_img" style=" background-color: papayawhip">
-   <img src="quisuisje_img_3.png"  alt="Ma petite tête"/>
-  <div class="block2_txt" style=" background-color: papayawhip">
+<div class="block2" style=" background-color: papayawhip">
+  <div class="block2_txt">
    <div class="block2_inner">
       <p style="color: #a20c4c">
       Actuellement mon travail m’amène à bouger beaucoup et déménager souvent. Je n'ai pas encore trouver la meilleure solution pour faire vivre sereinement l'atelier (et avoir du stock par exemple). 
@@ -81,10 +78,13 @@ L'aquarelle existe sous forme de tubes ou de godets, et ces derniers sont très 
          <li> Faire du design textile en imprimant mes motifs sur du tissus </il>
       </ul>
       <p style="color: #a20c4c">
-          Si vous souhaitez soutenir mon travail et acheter mes aquarelles vous pouvez prendre contact avec moi via Instagram et Facebook 😃. Les liens sont ci-dessous : ​⬇️​
+          Si vous souhaitez soutenir mon travail et acheter mes aquarelles vous pouvez prendre contact avec moi via Instagram et Facebook 😃. 
+          <br> Les liens sont ci-dessous : ​⬇️​
       </p>
-      </div>
-   </div>
+    </div>
+  </div>
+  <div class="block2_img">
+    <img src="quisuisje_img_3.png"  alt="Ma petite tête"/>
   </div>
 </div>
 
