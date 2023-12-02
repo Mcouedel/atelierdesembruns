@@ -10,7 +10,7 @@ title: Les aquarelles sur-mesure  ?
   font-family: Georgia;
   font-style: italic;
   font-size: 120%"; width: 80%;>
-Je serais très heureuse de partager petits et grands moments de bonheur avec vous à travers mes aquarelles. Que ça soit pour annoncer un grand évènement ou bien faire plaisir a vos proches pour un anniversaire ou Noël 
+Je serais très heureuse de partager petits et grands moments de bonheur avec vous à travers mes aquarelles. Que ça soit pour annoncer un grand évènement ou bien faire plaisir à vos proches pour un anniversaire ou Noël 
 </center>
 <br>
 
