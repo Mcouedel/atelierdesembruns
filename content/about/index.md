@@ -46,17 +46,17 @@ Je partage l'ensemble de mes créations sur Instagram, alors abonne toi si le co
   font-size: 200%" > Pourquoi l'aquarelle ? </h1>
 <br>
 <div class="block3">
-  <div class="block3_img" style="">
+  <div class="block3_img">
    <img src="quisuisje_img_2_1.png"  alt="Ma petite tête"/>
+  </div>
   <div class="block3_txt" style="">
    <div class="block3_inner">
       <p style="color: #2c4650">
       L'aquarelle est un medium qui a l'air au premier abord facile mais on se rend bien vite compte que ce n'est pas du tout le cas ! ​😂​ Il faut réfléchir où laisser les blancs et à l'inverse de l'acrylique penser à peindre les zones claires avant les foncées ! Il faut aussi penser aux mélanges des couleurs et au timing du séchage, bref pas du tout détente dit comme ça. ​😂​ Mais c'est là qu'est toute la beauté de l'aquarelle ! On ne peut pas tout maîtriser et faut apprendre/savoir lâcher prise !  
-<br><br>
-L'aquarelle existe sous forme de tubes ou de godets, et ces derniers sont très pratiques lorsque l'on voyage où que l'on peint en extérieur ! (Même si ça m'est arrivé que certains godets fondent avec la chaleur tropicale 😅)
+      <br><br>
+      L'aquarelle existe sous forme de tubes ou de godets, et ces derniers sont très pratiques lorsque l'on voyage où que l'on peint en extérieur ! (Même si ça m'est arrivé que certains godets fondent avec la chaleur tropicale 😅)
       </p>
-      </div>
-   </div>
+    </div>
   </div>
 </div>
 
