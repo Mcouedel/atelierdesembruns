@@ -5,7 +5,7 @@ date: ''
 slug: paille-en-queue
 categories:
   - Naturaliste
-tags:
+Localities:
   - La Réunion
 ---
 <center>

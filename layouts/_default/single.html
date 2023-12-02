@@ -12,14 +12,14 @@
 {{ with .GetTerms $taxonomy }}
   <p>Localitité :
     {{ range . }}
-      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>, 
     {{ end }}</p>
 {{ end }}
 
 {{ $taxonomy := "categories" }}
 {{ with .GetTerms $taxonomy }}
   <p>Catégories :</p>
-  <ul>
+  <ul style=" margin-top: -20px;">
     {{ range . }}
       <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
     {{ end }}

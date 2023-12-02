@@ -18,7 +18,7 @@ Coucou ! <br> Moi c’est Marion, scientifique, couturière et aquarelliste. Ce 
         <p style="color: #a20c4c">
         J'ai commencé à peindre des tableaux à l'acrylique au coté de ma grand-mère peintre, couturière et cuisinière (je crois que c'est de famille les multiples hobbies 😇). Et puis avec les études scientifiques, j'ai laissé mon coté créatif en stand-by, avec l'idée un peu simpliste qu'on était, soit scientifique, soit artistique (merci le formatage de la société).  
         <br><br>
-        C'est finalement pendant ma thèse de doctorat que j'ai éprouvé le besoin de me reconnecter avec moi-même et d'exprimer cette créativité qui me manquait au quotidien. J'ai recommencé doucement avec un bullet journal (bujo pour les intimes) et quelques godets d'aquarelle. Et puis j'y ai repris goût et je me suis mise à enmener mes carnets et mes godets partout avec moi (surtout en rando même s'il faut tout porter 😅​)
+        C'est finalement pendant ma thèse de doctorat que j'ai éprouvé le besoin de me reconnecter avec moi-même et d'exprimer cette créativité qui me manquait au quotidien. J'ai recommencé doucement avec un bullet journal (bujo pour les intimes) et quelques godets d'aquarelle. Et puis j'y ai repris goût et je me suis mise à emmener mes carnets et mes godets partout avec moi (surtout en rando même s'il faut tout porter 😅​)
         <br><br>
         En parallèle, j'exprime aussi ma créativité en cousant ma garde robe depuis 2019 et je suis fière de dire que je n'ai acheté aucun vêtement neuf depuis 4 ans !
         </p>
@@ -31,7 +31,7 @@ Coucou ! <br> Moi c’est Marion, scientifique, couturière et aquarelliste. Ce 
 <br>
 <br>
 <center> 
-Je partage l'ensemble de mes créations sur Instagram, alors abonne-toi si le coeur y est !  
+Je partage l'ensemble de mes créations sur Instagram, alors abonne toi si le coeur y est !  
 <br>
 <br>
 <a href="https://www.instagram.com/seas_sewing/">
@@ -51,9 +51,9 @@ Je partage l'ensemble de mes créations sur Instagram, alors abonne-toi si le co
   <div class="block3_txt" style="">
    <div class="block3_inner">
       <p style="color: #2c4650">
-      L'aquarelle est un medium qui à l'air au premier abord facile mais on se rend bien vite compte que ce n'est pas du tout le cas ! ​😂​ Il faut réfléchir où laisser les blancs et à l'inverse de l'acrylique penser à peindre les zones claires avant les foncées ! Il faut aussi penser aux mélanges des couleurs et au timing du séchage, bref pas du tout détente dit comme ça. ​😂​ Mais c'est là qu'est toute la beauté de l'aquarelle ! On ne peut pas tout maîtriser et faut apprendre/savoir lâcher prise !  
+      L'aquarelle est un medium qui a l'air au premier abord facile mais on se rend bien vite compte que ce n'est pas du tout le cas ! ​😂​ Il faut réfléchir où laisser les blancs et à l'inverse de l'acrylique penser à peindre les zones claires avant les foncées ! Il faut aussi penser aux mélanges des couleurs et au timing du séchage, bref pas du tout détente dit comme ça. ​😂​ Mais c'est là qu'est toute la beauté de l'aquarelle ! On ne peut pas tout maîtriser et faut apprendre/savoir lâcher prise !  
 <br><br>
-L'aquarelle existe sous forme de tubes ou de godets, et ces derniers sont très pratiques lorsque l'on voyage où que l'on peint en extérieur ! (Mème si ça m'est arrivé que certains godets fondent avec la chaleur tropicale 😅)
+L'aquarelle existe sous forme de tubes ou de godets, et ces derniers sont très pratiques lorsque l'on voyage où que l'on peint en extérieur ! (Même si ça m'est arrivé que certains godets fondent avec la chaleur tropicale 😅)
       </p>
       </div>
    </div>
