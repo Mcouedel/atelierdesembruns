@@ -15,7 +15,8 @@ Je serais très heureuse de partager petits et grands moments de bonheur avec vo
 <br>
 
 
-<div class="container_contact" style="background-color: #cbe5e9">
+<div class="container_contact" style="background-color: #cbe5e9; text-align:center; align-items: center;
+  justify-content: center">
      <center><p>N'hésitez pas à me contacter via les réseaux sociaux :</p>
     <div class="icons">
 	<a id="facebook" href="//facebook.com/latelierdesembruns" target="_blank">
@@ -26,7 +27,7 @@ Je serais très heureuse de partager petits et grands moments de bonheur avec vo
 	</a>
     </div></center>
 </div>
-
+<br>
 <center>
 <p style="  color:#2c4650;
   font-family: Georgia;
