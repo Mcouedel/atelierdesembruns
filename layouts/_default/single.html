@@ -11,14 +11,23 @@
 {{ $taxonomy := "localities" }}
 {{ with .GetTerms $taxonomy }}
   <p>Localitité :
-    {{ range . }}
-      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>, 
-    {{ end }}</p>
+    {{ range $i, $t := . }}{{ if $i }},&nbsp;{{ end }}<a href="{{ $t.Permalink }}">{{ $t.LinkTitle }}</a>{{ end }} 
+    </p>
 {{ end }}
 
 {{ $taxonomy := "categories" }}
 {{ with .GetTerms $taxonomy }}
   <p>Catégories :</p>
+  <ul style=" margin-top: -20px;">
+    {{ range . }}
+      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
+{{ end }}
+
+{{ $taxonomy := "series" }}
+{{ with .GetTerms $taxonomy }}
+  <p>Collections :</p>
   <ul style=" margin-top: -20px;">
     {{ range . }}
       <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
