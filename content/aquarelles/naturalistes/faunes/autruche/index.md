@@ -7,6 +7,8 @@ categories:
   - Naturaliste
 Localities:
   - Afrique du Sud
+Series:
+  - Safari en Afrique du Sud
 ---
 <center>
 <img alt="[Autruche à l'aquarelle]" src="autruche-featured-image.jpg" width=50%> 

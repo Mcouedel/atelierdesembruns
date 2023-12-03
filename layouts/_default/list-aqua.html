@@ -1,0 +1,35 @@
+{{ partial "header.html" . }}
+
+
+{{ .Content }}
+
+{{ $paginator := .Paginate .Pages.ByDate.Reverse 30 }}
+<div class="container-fluid p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+  <div class='row justify-content-center'>
+  {{ range $paginator.Pages }}
+    {{- partial "blog-card.html" . -}}
+  {{ end }}
+</div>
+</div>
+ 
+<br>
+<br>
+<center>
+<p style="  color:  #436f77;
+      font-family: Georgia;
+      font-style: italic;
+      font-size: 150%"; width: 80%;>
+    Vous pouvez aussi visualiser les aquarelles par :
+    </p>
+<span style="padding-left:5px;padding-right: 5px;"><a href="/categories">
+  <button class="btn_poupre"> Catégorie </button></a></span>
+<span style="padding-left:5px;padding-right: 5px;"><a href="/localities">
+ <button class="btn_poupre"> Localité </button></a></span>
+ <span style="padding-left:5px;padding-right: 5px;"><a href="/series">
+  <button class="btn_poupre"> Collection </button></a> 
+ </span>
+</center>
+<br>
+<br>
+{{- partial "contact.html" . -}}
+{{ partial "footer.html" . }}

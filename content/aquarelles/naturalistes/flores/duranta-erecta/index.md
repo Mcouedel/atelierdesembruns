@@ -8,6 +8,9 @@ categories:
   - Carte
 Localities:
   - La Réunion
+Series:
+  - reunion_diversity
+  - fleurs
 ---
 <center>
 <img alt="[Duranta-erecta à l'aquarelle]" src="duranta-erecta-featured-image.jpg" width=50%> 

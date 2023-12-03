@@ -5,7 +5,7 @@ date: ''
 slug: babouin
 categories:
   - Naturaliste
-tags:
+Localities:
   - Afrique du Sud
 series:
   - Safari en Afrique du Sud

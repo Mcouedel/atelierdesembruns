@@ -7,6 +7,8 @@ categories:
   - Naturaliste
 Localities:
   - La Réunion
+Series:
+  - reunion_diversity
 ---
 <center>
 <img alt="[Poster naturaliste diversité corallienne à l'aquarelle]" src="phaethon-featured-image.jpg" width=50%> 

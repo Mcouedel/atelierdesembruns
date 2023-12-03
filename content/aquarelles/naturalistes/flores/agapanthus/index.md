@@ -8,6 +8,9 @@ categories:
   - Naturaliste
 Localities:
   - Bretagne
+Series:
+  - bzh_diversity
+  - fleurs
 ---
 <center>
 <img alt="[Agapanthe bleue de Bretagne à l'aquarelle]" src="agapanthus-featured-image.jpg" width=50%> 

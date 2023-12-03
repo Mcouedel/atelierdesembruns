@@ -8,6 +8,9 @@ categories:
   - Naturaliste
 Localities:
   - La Réunion
+Series:
+  - reunion_diversity
+  - fleurs
 ---
 <center>
 <img alt="[heliconia psittacorum à l'aquarelle]" src="heliconia-psittacorum-featured-image.jpg" width=50%> 

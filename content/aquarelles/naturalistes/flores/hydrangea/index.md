@@ -9,6 +9,9 @@ categories:
 Localities:
   - Bretagne
   - Normandie
+Series:
+ - bzh_diversity
+ - fleurs
 ---
 <center>
 <img alt="[Hortensia rose à l'aquarelle]" src="hydrangea-featured-image.jpg" width=50%> 
