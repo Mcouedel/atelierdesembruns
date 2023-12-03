@@ -1,8 +1,10 @@
+<!--Liste les différentes tag d'une catégorie-->
 {{ partial "header.html" . }}
 {{ .Content }}
+<div class="container-fluid p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+  <div class='row justify-content-center'>
 {{ $data := .Data }}
 {{ range $key,$value := .Data.Terms.ByCount }}
-  <div class="container-fluid p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
       <div class="card_terms">
           <div class="card_terms_img">
               <a href="{{ .Page.Permalink  }}">
@@ -15,7 +17,8 @@
                   <p>{{ $pageCount }} aquarelle{{ if ne $pageCount 1 }}s{{ end }} </p>
           </div>
       </div>
-  </div>
   {{ end }}
+</div>
+</div>
 {{- partial "contact.html" . -}}
 {{ partial "footer.html" . }}
