@@ -5,7 +5,7 @@ date: ''
 slug: autruche
 categories:
   - Naturaliste
-tags:
+Localities:
   - Afrique du Sud
 ---
 <center>

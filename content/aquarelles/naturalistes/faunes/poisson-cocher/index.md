@@ -8,7 +8,7 @@ categories:
 Localities:
   - La Réunion
 Series:
-  - Vie marine
+  - marinelife
 ---
 <center>
 <img alt="[poisson cocher à l'aquarelle]" src="heniochus-featured-image.jpg" width=50%> 
