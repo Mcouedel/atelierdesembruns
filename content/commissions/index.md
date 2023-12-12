@@ -35,28 +35,63 @@ Je serais très heureuse de partager petits et grands moments de bonheur avec vo
   font-size: 140%"> Aquarelles réalisées sur-mesures :
 </p></center>  
 <ul>
-    <li style="color:#C2274B; font-family: Georgia;font-size: 120%">Aquarelles au format numérique :</li>
-
-<center>Trois aquarelles au format numérique pour illustrer les bijoux en écailles de poisson créer par Sophie de  <a href="https://babouni.fr/salty/" target="_blank"> Babou'ni </a>.</center>
-<div class="container-fluid p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-  <div class='row justify-content-center'>
-        <div class="featured_card">
-            <div class="featured_img"><img src="brama_brama.png" alt="Brama brama"/></div>
-            <div class="featured_txt"><i>Brama brama</i></div>
-        </div>
-        <div class="featured_card">
-            <div class="featured_img">
-                 <img src="lutjanus_vivanus.png" alt="Lutjanus vivanus"/>
+    <li style="color:#C2274B; font-family: Georgia;font-size: 120%">Aquarelles au format   numérique :</li>
+        <center>Trois aquarelles au format numérique pour illustrer les bijoux en écailles de poisson créer par Sophie de  <a href="https://babouni.fr/salty/" target="_blank"> Babou'ni </a>.</center>
+      <div class="container-fluid p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div class='row justify-content-center'>
+            <div class="featured_card">
+                <div class="featured_img"><img src="brama_brama.png" alt="Brama brama"/></div>
+                <div class="featured_txt"><i>Brama brama</i></div>
             </div>
-            <div class="featured_txt"><i>Lutjanus vivanus</i></div>
-        </div>
-        <div class="featured_card">
-            <div class="featured_img">
-                 <img src="lutjanus_sebae.png" alt="Lutjanus sebae"/>
+            <div class="featured_card">
+                <div class="featured_img"><img src="lutjanus_vivanus.png" alt="Lutjanus vivanus"/></div>
+                <div class="featured_txt"><i>Lutjanus vivanus</i></div>
             </div>
-            <div class="featured_txt"><i>Lutjanus sebae</i></div>
+            <div class="featured_card">
+                <div class="featured_img"><img src="lutjanus_sebae.png" alt="Lutjanus sebae"/></div>
+                <div class="featured_txt"><i>Lutjanus sebae</i></div>
+            </div>
         </div>
-    </div>
-</div> 
+       </div> 
+    <li style="color:#C2274B; font-family: Georgia;font-size: 120%">Aquarelles avec impression sur du papier 300 gsm :</li>
+         <center>Neuf aquarelles originales qui ont été numérisées puis mises en forme pour Noël avant d'être imprimées sur du papier 300 gsm. Chaque aquarelle illustre le domaine de recherches des doctorants du laboratoire de Francesca (<a href="https://www.instagram.com/habb_lab/" target="_blank">HaBB Lab</a>), qui m'a gentimment demandé de réaliser leur cadeau de Noël.</center>
+        <div class='row justify-content-center'>
+            <div class="featured_card">
+                <div class="featured_img"><img src="Mockup_A5frame_andy.jpg" alt="sous-marin et tombant récifal"/></div>
+                <div class="featured_txt">Cartographie des récifs profonds</div>
+            </div>
+            <div class="featured_card">
+                <div class="featured_img"><img src="Mockup_A5frame_pauline.jpg" alt="récif fossile"/></div>
+                <div class="featured_txt">Etude du récif fossile</div>
+            </div>
+            <div class="featured_card">
+                <div class="featured_img"><img src="Mockup_A5frame_silvia.jpg" alt="carte péninsule arabique"/></div>
+                <div class="featured_txt">Connectivité des Agariciidae dans la péninsule arabique</div>
+            </div>
+            <div class="featured_card">
+                <div class="featured_img"><img src="Mockup_A5frame_suzy.jpg" alt="carbe caché dans un corail"/></div>
+                <div class="featured_txt">Etude des crabes Cryptochiridae</div>
+            </div>
+            <div class="featured_card">
+                <div class="featured_img"><img src="Mockup_A5frame_vicky.jpg" alt="coraux noirs"/></div>
+                <div class="featured_txt">Etude des coraux noirs</div>
+            </div>
+            <div class="featured_card">
+                <div class="featured_img"><img src="Mockup_A5frame_nati.jpg" alt="transect parmis les coraux"/></div>
+                <div class="featured_txt">Recouvrement et blanchissement corallien</div>
+            </div>
+            <div class="featured_card">
+                <div class="featured_img"><img src="Mockup_A5frame_megan.jpg" alt="corail profond"/></div>
+                <div class="featured_txt">Etude des coraux profonds</div>
+            </div>
+            <div class="featured_card">
+                <div class="featured_img"><img src="Mockup_A5frame_laura.jpg" alt="grogone"/></div>
+                <div class="featured_txt">Etude les gorgones</div>
+            </div>
+            <div class="featured_card">
+                <div class="featured_img"><img src="Mockup_A5frame_fede.jpg" alt="equipement technicienne labo"/></div>
+                <div class="featured_txt">Technicienne du labo</div>
+            </div>
+        </div>
 </ul>
 <p>
