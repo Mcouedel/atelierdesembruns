@@ -10,6 +10,7 @@ Localities:
 Series:
   - marinelife
   - reunion_diversity
+  - coral_reefs
 ---
 <center>
 <img alt="[poisson cocher à l'aquarelle]" src="heniochus-featured-image.jpg" width=50%> 
