@@ -93,5 +93,24 @@ Je serais très heureuse de partager petits et grands moments de bonheur avec vo
                 <div class="featured_txt">Technicienne du labo</div>
             </div>
         </div>
+    <li style="color:#C2274B; font-family: Georgia;font-size: 120%">Aquarelles originales :</li>
+        <center>Souvenir de vacances à offrir. Peint à partir d'une photo avec l'ajout des deux petits loulous sur le bord de la fenêtre. </a>.</center>
+      <div class="container-fluid p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div class='row justify-content-center'>
+            <div class="featured_card">
+                <div class="featured_img"><img src="2023_Brigneau_lotte.jpg" alt="Souvenir de vacances"/></div>
+                <div class="featured_txt">Souvenir de vacances</div>
+            </div>
+        </div>
+       </div> 
+       <center>Illustration des <a href="https://sites.google.com/view/locationsveuleslesroses/accueil" target="_blank">gîtes à louer</a> à Veules-les-roses (Normandie).</a>.</center>
+      <div class="container-fluid p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div class='row justify-content-center'>
+            <div class="featured_card">
+                <div class="featured_img"><img src="2023-12_Maison_veules.jpg" alt="Gîtes normands"/></div>
+                <div class="featured_txt">Gîtes normands</div>
+            </div>
+        </div>
+       </div> 
 </ul>
 <p>

@@ -9,6 +9,7 @@ Localities:
   - Afrique du Sud
 series:
   - Safari en Afrique du Sud
+  - Oiseaux
 ---
 <center>
 <img alt="[Ibis à l'aquarelle]" src="ibis-featured-image.jpg" width=50%> 

@@ -9,6 +9,7 @@ Localities:
   - La Réunion
 Series:
   - reunion_diversity
+  - Oiseaux
 ---
 <center>
 <img alt="[Poster naturaliste diversité corallienne à l'aquarelle]" src="phaethon-featured-image.jpg" width=50%> 
