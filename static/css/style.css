@@ -561,29 +561,31 @@ thead, tfoot, tr:nth-child(even) { background: #eee; }
   margin: 20px;
 }
 
-.featured_img {
+/* image carnet*/
+.carnet_card {
   position: relative;
-  width: 100%;
-  background-color: papayawhip;
-  vertical-align: middle; 
-  display: table;
-  height:auto;
-  padding: 0px;
+  outline: none ;
   text-decoration: none;
- }
- .featured_card a {
-   color: black;
-   vertical-align: middle;
- }
- .featured_img img {
-  width: 100%;
-   }
- .featured_txt a {
-  vertical-align: middle;
+  display: inline-block;
+  width: 450px;
   color: black;
+  background-color: papayawhip;
+  text-align: center;
+  margin: 10px;
+}
+.carnet_2p_card {
+  position: relative;
+  outline: none ;
   text-decoration: none;
- }
+  display: inline-block;
+  width: 998px;
+  color: black;
+  background-color: papayawhip;
+  text-align: center;
+  margin: 20px;
+}
 
+ 
 .container_contact {
   background-color: papayawhip;
   position: relative;

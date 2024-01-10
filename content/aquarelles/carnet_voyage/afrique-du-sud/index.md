@@ -1,0 +1,36 @@
+---
+title: Afrique du Sud
+author: ''
+date: ''
+slug: afrique-du-sud
+categories:
+  - carnet-voyage
+tags: []
+Localities: 
+  - afrique-du-sud
+Series: ~
+---
+<center> 
+A l'occasion du 14ème symposium du WIOMSA, j'ai eu l'occasion d'aller en Afrique du Sud à Port-Elizabeth. Une semaine enrichissante et pleine de découverte.
+
+<br>
+<br>
+<div class="container-fluid p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
+  <div class='row justify-content-center'>
+    <div class="carnet_card">
+      <div class="featured_img">
+        <img src="SouthAfrica_cape_recife_featured-image.png" alt="Cape Recife Natural Reserve"/></div>
+      <div class="featured_txt" style="background-color: papayawhip">Cape Recife Natural Reserve</div>
+    </div>
+    <div class="carnet_card">
+      <div class="featured_img">
+        <img src="SouthAfrica_VanStanden.jpg" alt="Van standen"/></div>
+      <div class="featured_txt" style="background-color: papayawhip">Spot d'escalade à Van Standen</div>
+    </div>
+    <div class="carnet_card">
+      <div class="featured_img">
+        <img src="SouthAfrica_Wildflowers.jpg" alt="Fleurs sauvages d'Afrique du Sud"/></div>
+      <div class="featured_txt" style="background-color: papayawhip">Fleurs sauvages</div>
+    </div>
+  </div>
+</div>
