@@ -54,7 +54,7 @@ menu:
       weight: 40
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
-  MathJaxVersion: 2.7.5
+  MathJaxVersion: 2.7.5 
   description: "L'atelier des embruns, aquarelles insiprées par la nature"
   favicon: favicon.ico 
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
@@ -75,7 +75,7 @@ params:
     color: "#a20c4c"
   share:
     color: "#2c4650" 
-markup:
+markup:  
   defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
