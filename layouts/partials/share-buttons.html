@@ -1,6 +1,6 @@
 {{ if (not (isset .Params "disableshare")) }}
 {{ $title := .Title }}
-{{ $siteurl := "https://atelier-des-embruns.netlify.app" }}
+{{ $siteurl := "https://atelier-des-embruns.netlify.app/" }}
 {{ $url := printf "%s" .Permalink | absLangURL }}
 {{ $body := print $title " | " .Site.Title "\n" "\n" $siteurl $url "\n" }}
 {{ $image := .Resources.GetMatch "*featured-image*" }}
