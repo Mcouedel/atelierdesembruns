@@ -4,10 +4,8 @@
 <main>
 {{ .Content }}
 </main>
-
 <br>
-<hr>
-<br>
+{{ partial "share-buttons.html" . }}
 {{ $taxonomy := "localities" }}
 {{ with .GetTerms $taxonomy }}
   <p>Localitité :

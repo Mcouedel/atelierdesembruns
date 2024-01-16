@@ -68,11 +68,13 @@ params:
     height: 50
     url: /logo.png
     width: 50 
-  footer: "Merci de respecter mon travail, l'ensemble des images est soumis à droit d'auteur: &copy; L'atelier des embruns par [Marion Couëdel](https://https://www.instagram.com/seas_sewing/) 2023"
+  footer: "Merci de respecter mon travail, l'ensemble des images est soumis à droit d'auteur: &copy; L'atelier des embruns par [Marion Couëdel](https://https://www.instagram.com/seas_sewing/) 2024"
   contact:
     instagram: "atelier_des_embruns"
     facebook: "latelierdesembruns"
     color: "#a20c4c"
+  share:
+    color: "#2c4650" 
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
