@@ -3,6 +3,7 @@ title: "Les paysages"
 author: "M. Couëdel"
 output: html_document
 layout: single
+disableshare : true
 ---
 <center>
 Paysages issues de mes carnets de voyages, peints sur place, ou à partir de photos personnels.

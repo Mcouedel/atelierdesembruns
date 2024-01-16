@@ -45,7 +45,7 @@ menu:
       weight: 39
     - pageRef: /categories/
       name: Par catégories
-      url: /categories/
+      url: /categories/ 
       parent: Aquarelles
       weight: 38
     - pageRef: Commissions 
