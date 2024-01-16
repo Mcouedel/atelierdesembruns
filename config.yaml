@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: https://atelier-des-embruns.netlify.app/
 languageCode: en-US
 title: L'Atelier des embruns
 theme: hugo-lithium
