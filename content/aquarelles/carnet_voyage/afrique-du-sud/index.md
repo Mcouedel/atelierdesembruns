@@ -27,6 +27,11 @@ A l'occasion du 14ème symposium du WIOMSA, j'ai eu l'occasion d'aller en Afriqu
         <img src="SouthAfrica_VanStanden.jpg" alt="Van standen"/></div>
       <div class="featured_txt" style="background-color: papayawhip">Spot d'escalade à Van Standen</div>
     </div>
+        <div class="carnet_2p_card">
+      <div class="featured_img">
+        <img src="DoublePage_ASAnimaux.jpg" alt="Animaux de la savane"/></div>
+      <div class="featured_txt" style="background-color: papayawhip">Faunes sauvages rencontrées en safari</div>
+    </div>
     <div class="carnet_card">
       <div class="featured_img">
         <img src="SouthAfrica_Wildflowers.jpg" alt="Fleurs sauvages d'Afrique du Sud"/></div>
