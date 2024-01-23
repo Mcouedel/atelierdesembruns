@@ -44,7 +44,7 @@ La Réunion, l'île intense, dés que l'on mets le nez dehors, il y a quelques c
     </div>
      <div class="carnet_card">
       <div class="featured_img">
-        <img src="PlageHermitage-featured-image.jpg" alt="Plage de l'Hermitage"/></div>
+        <img src="PlageHermitage.jpg" alt="Plage de l'Hermitage"/></div>
       <div class="featured_txt" style="background-color: papayawhip">Plage de l'Hermitage</div>
     </div>
 </div>

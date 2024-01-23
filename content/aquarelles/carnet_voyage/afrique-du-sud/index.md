@@ -19,7 +19,7 @@ A l'occasion du 14ème symposium du WIOMSA, j'ai eu l'occasion d'aller en Afriqu
   <div class='row justify-content-center'>
     <div class="carnet_card">
       <div class="featured_img">
-        <img src="SouthAfrica_cape_recife_featured-image.png" alt="Cape Recife Natural Reserve"/></div>
+        <img src="SouthAfrica_cape_recife.png" alt="Cape Recife Natural Reserve"/></div>
       <div class="featured_txt" style="background-color: papayawhip">Cape Recife Natural Reserve</div>
     </div>
     <div class="carnet_card">
