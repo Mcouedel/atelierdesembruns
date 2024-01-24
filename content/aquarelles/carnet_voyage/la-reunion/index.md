@@ -18,6 +18,11 @@ La Réunion, l'île intense, dés que l'on mets le nez dehors, il y a quelques c
 <h1 style="color:#C2274B; font-family: Georgia;font-size: 150%">Le Nord</h1>
 <div class="container-fluid p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
   <div class='row justify-content-center'>
+  <div class="carnet_card">
+      <div class="featured_img">
+        <img src="Page_riviere-des-pluies.jpg" alt="Rivière des Pluies"/></div>
+      <div class="featured_txt" style="background-color: papayawhip">Rivière des Pluies</div>
+    </div>
     <div class="carnet_card">
       <div class="featured_img">
         <img src="RiviereSaintDenis.jpg" alt="Rivière Saint Denis"/></div>
