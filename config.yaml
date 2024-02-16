@@ -24,7 +24,7 @@ menu:
       name: Qui suis-je ?
       url: /about/
       weight: 20
-    - pageRef: aquarelles 
+    - pageRef: /aquarelles/ 
       name: Aquarelles
       url: /aquarelles/
       weight: 30

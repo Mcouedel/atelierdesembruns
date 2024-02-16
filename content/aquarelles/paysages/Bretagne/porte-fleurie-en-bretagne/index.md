@@ -6,7 +6,8 @@ slug: porte-fleurie-en-bretagne
 categories:
   - Paysage
 Localities: Bretagne
-Series: ~
+Series: 
+  - aesthetic_doors
 ---
 
 <center>
