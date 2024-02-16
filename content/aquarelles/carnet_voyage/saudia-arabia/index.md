@@ -10,7 +10,7 @@ Localities:
 Series: ~
 ---
 <center>  
-Depuis septembre 2023, je vis en Arabie saoudite au bord de la mer rouge 
+Depuis septembre 2023, je vis en Arabie Saoudite au bord de la mer rouge 
 
 <br>
 <br>
@@ -25,6 +25,11 @@ Depuis septembre 2023, je vis en Arabie saoudite au bord de la mer rouge
       <div class="featured_img">
         <img src="Kaust_ligthhouse_page.jpg" alt="KAUST lighthouse"/></div>
       <div class="featured_txt" style="background-color: papayawhip">KAUST lighthouse</div>
+    </div>
+        <div class="carnet_2p_card">
+      <div class="featured_img">
+        <img src="Double_page_porte_jeddah.jpg" alt="Historical doors of Al-Balad Jeddah"/></div>
+      <div class="featured_txt" style="background-color: papayawhip">Portes historiques de la vielle ville de Jeddah, Al-Balad </div>
     </div>
   </div>
 </div>
