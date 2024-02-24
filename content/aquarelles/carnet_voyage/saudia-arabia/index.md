@@ -21,15 +21,20 @@ Depuis septembre 2023, je vis en Arabie Saoudite au bord de la mer rouge
         <img src="2023-05-27_KAUST-piscine.jpg" alt="KAUST lighthouse"/></div>
       <div class="featured_txt" style="background-color: papayawhip">Vue de la piscine</div>
     </div>
-    <div class="carnet_card">
+    <div class="carnet_2p_card">
       <div class="featured_img">
-        <img src="Kaust_ligthhouse_page.jpg" alt="KAUST lighthouse"/></div>
-      <div class="featured_txt" style="background-color: papayawhip">KAUST lighthouse</div>
+        <img src="Double_Page_KAUST_cafe.jpg" alt="Historical doors of Al-Balad Jeddah"/></div>
+      <div class="featured_txt" style="background-color: papayawhip">Phare de KAUST et pause café à Al-Balad </div>
     </div>
-        <div class="carnet_2p_card">
+    <div class="carnet_2p_card">
       <div class="featured_img">
         <img src="Double_page_porte_jeddah.jpg" alt="Historical doors of Al-Balad Jeddah"/></div>
       <div class="featured_txt" style="background-color: papayawhip">Portes historiques de la vielle ville de Jeddah, Al-Balad </div>
+    </div>
+    <div class="carnet_card">
+      <div class="featured_img">
+        <img src="Page_Vanneau.jpg" alt="KAUST lighthouse"/></div>
+      <div class="featured_txt" style="background-color: papayawhip">Vanneau à éperons</div>
     </div>
   </div>
 </div>

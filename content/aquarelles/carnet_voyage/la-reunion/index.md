@@ -28,6 +28,12 @@ La Réunion, l'île intense, dés que l'on mets le nez dehors, il y a quelques c
         <img src="RiviereSaintDenis.jpg" alt="Rivière Saint Denis"/></div>
       <div class="featured_txt" style="background-color: papayawhip">Rivière Saint Denis</div>
     </div>
+    <div class='row justify-content-center'>
+      <div class="carnet_2p_card">
+        <div class="featured_img">
+          <img src="Double_Page_tisserins.jpg" alt="Tisserins"/></div>
+        <div class="featured_txt" style="background-color: papayawhip">Balais des oiseaux tisserins confectionnant leurs nids</div>
+      </div>
  </div>
 </div>
 <hr>
