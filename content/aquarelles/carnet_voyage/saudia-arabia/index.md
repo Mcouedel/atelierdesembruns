@@ -36,6 +36,26 @@ Depuis septembre 2023, je vis en Arabie Saoudite au bord de la mer rouge
         <img src="Page_Vanneau.jpg" alt="KAUST lighthouse"/></div>
       <div class="featured_txt" style="background-color: papayawhip">Vanneau à éperons</div>
     </div>
+    <div class="carnet_card">
+      <div class="featured_img">
+        <img src="2024-03-09_dromadaire.jpg" alt="Dromadaire"/></div>
+      <div class="featured_txt" style="background-color: papayawhip">Dromadaire croisé sur la route pour se rendre à Jizan</div>
+    </div>
+     <div class="carnet_card">
+      <div class="featured_img">
+        <img src="2024-03-23_AlAhsa.jpg" alt="Al ahsa cave watercolors"/></div>
+      <div class="featured_txt" style="background-color: papayawhip">Grottes de Al Ahsa à l'est du pays</div>
+    </div>
+    <div class="carnet_card">
+      <div class="featured_img">
+        <img src="2024-03-27_umluj_bateau_peche.jpg" alt="Bateau de pêche traditionnel saoudien"/></div>
+      <div class="featured_txt" style="background-color: papayawhip">Bateau de pêche traditionnel saoudien</div>
+    </div>
+    <div class="carnet_2p_card">
+      <div class="featured_img">
+        <img src="2024-03-28_umluj_volcanic_harrats_2.jpg" alt="Volcanic harrats of Umluj"/></div>
+      <div class="featured_txt" style="background-color: papayawhip">Champs de laves près de Umluj</div>
+    </div>
   </div>
 </div>
 </center>
