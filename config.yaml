@@ -87,4 +87,8 @@ taxonomies:
   categories: "categories"
   localities: "localities"
   series: "series"
-  
+sitemap:
+  changeFreq: "monthly"
+  disable: false
+  filename: sitemap.xml
+  priority: -1  
