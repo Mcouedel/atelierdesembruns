@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Paysages on L&#39;Atelier des embruns</title>
-    <link>/aquarelles/paysages/</link>
-    <description>Recent content in Paysages on L&#39;Atelier des embruns</description>
+    <title>Les paysages on L&#39;Atelier des embruns</title>
+    <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/</link>
+    <description>Recent content in Les paysages on L&#39;Atelier des embruns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/aquarelles/paysages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://atelier-des-embruns.netlify.app/aquarelles/paysages/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

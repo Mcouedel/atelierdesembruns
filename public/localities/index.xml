@@ -1,18 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Localities on L&#39;Atelier des embruns</title>
-    <link>/localities/</link>
-    <description>Recent content in Localities on L&#39;Atelier des embruns</description>
+    <title>Les aquarelles par localité on L&#39;Atelier des embruns</title>
+    <link>https://atelier-des-embruns.netlify.app/localities/</link>
+    <description>Recent content in Les aquarelles par localité on L&#39;Atelier des embruns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/localities/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://atelier-des-embruns.netlify.app/localities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arabie saoudite</title>
+      <link>https://atelier-des-embruns.netlify.app/localities/saudia-arabia/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/localities/saudia-arabia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La Bretagne</title>
+      <link>https://atelier-des-embruns.netlify.app/localities/bretagne/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/localities/bretagne/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>La Réunion</title>
-      <link>/localities/la-r%C3%A9union/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <link>https://atelier-des-embruns.netlify.app/localities/la-r%C3%A9union/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>/localities/la-r%C3%A9union/</guid>
+      <guid>https://atelier-des-embruns.netlify.app/localities/la-r%C3%A9union/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L&#39;Afrique du Sud</title>
+      <link>https://atelier-des-embruns.netlify.app/localities/afrique-du-sud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/localities/afrique-du-sud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La Normandie</title>
+      <link>https://atelier-des-embruns.netlify.app/localities/normandie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/localities/normandie/</guid>
       <description></description>
     </item>
     

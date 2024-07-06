@@ -1,18 +1,102 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on L&#39;Atelier des embruns</title>
-    <link>/series/</link>
-    <description>Recent content in Series on L&#39;Atelier des embruns</description>
+    <title>Les différentes collections on L&#39;Atelier des embruns</title>
+    <link>https://atelier-des-embruns.netlify.app/series/</link>
+    <description>Recent content in Les différentes collections on L&#39;Atelier des embruns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://atelier-des-embruns.netlify.app/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Paysage de La Réunion</title>
-      <link>/series/paysage-de-la-r%C3%A9union/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <title>Les paysages de La Réunion</title>
+      <link>https://atelier-des-embruns.netlify.app/series/paysages-de-la-r%C3%A9union/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>/series/paysage-de-la-r%C3%A9union/</guid>
+      <guid>https://atelier-des-embruns.netlify.app/series/paysages-de-la-r%C3%A9union/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coral_reefs</title>
+      <link>https://atelier-des-embruns.netlify.app/series/coral_reefs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/series/coral_reefs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jolies portes à travers le monde</title>
+      <link>https://atelier-des-embruns.netlify.app/series/aesthetic_doors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/series/aesthetic_doors/</guid>
+      <description>
+Les portes, d&#39;un pays à l&#39;autre...</description>
+    </item>
+    
+    <item>
+      <title>La diversité bretonne</title>
+      <link>https://atelier-des-embruns.netlify.app/series/bzh_diversity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/series/bzh_diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La diversité réunionnaise</title>
+      <link>https://atelier-des-embruns.netlify.app/series/reunion_diversity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/series/reunion_diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le monde coloré des fleurs</title>
+      <link>https://atelier-des-embruns.netlify.app/series/fleurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/series/fleurs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Les oiseaux</title>
+      <link>https://atelier-des-embruns.netlify.app/series/oiseaux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/series/oiseaux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Les organismes marins</title>
+      <link>https://atelier-des-embruns.netlify.app/series/marinelife/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/series/marinelife/</guid>
+      <description>Passionnée par les mondes marins, vous pouvez retrouver ici l&amp;rsquo;ensemble des organismes que j&amp;rsquo;ai peint.
+Je me suis penchée à plusieurs thématiques :
+La vie marine de Bretagne Les habitants des récifs coralliens Les poissons </description>
+    </item>
+    
+    <item>
+      <title>Portes colorées à Al-balad</title>
+      <link>https://atelier-des-embruns.netlify.app/series/jeddah_doors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/series/jeddah_doors/</guid>
+      <description>Déhambulation parmis les bâtiments historiques de la ville de Jeddah en Arabie SaouditeLa ville portuaire de Jeddah est la seconde plus grande ville d’Arabie Saoudite. Elle est située le long de la Mer Rouge dans la province de Makkah. Al-Balad, qui se traduit littéralement par “la ville” est le centre historique de Jeddah. Les bâtiments historiques sont caractérisés par de jolies portes en bois sculptés ainsi que par des balcons fermés en bois, similaire aux Mashrabiya en Egypte ou en Irak</description>
+    </item>
+    
+    <item>
+      <title>Safari en Afrique du Sud</title>
+      <link>https://atelier-des-embruns.netlify.app/series/safari-en-afrique-du-sud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/series/safari-en-afrique-du-sud/</guid>
       <description></description>
     </item>
     

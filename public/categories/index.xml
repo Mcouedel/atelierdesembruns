@@ -2,35 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Les aquarelles par catégorie on L&#39;Atelier des embruns</title>
-    <link>/categories/</link>
+    <link>https://atelier-des-embruns.netlify.app/categories/</link>
     <description>Recent content in Les aquarelles par catégorie on L&#39;Atelier des embruns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://atelier-des-embruns.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Animaux</title>
-      <link>/categories/animaux/</link>
-      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      <title>Les paysages</title>
+      <link>https://atelier-des-embruns.netlify.app/categories/paysage/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>/categories/animaux/</guid>
+      <guid>https://atelier-des-embruns.netlify.app/categories/paysage/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Paysage</title>
-      <link>/categories/paysage/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <title>Les cartes</title>
+      <link>https://atelier-des-embruns.netlify.app/categories/carte/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/categories/paysage/</guid>
+      <guid>https://atelier-des-embruns.netlify.app/categories/carte/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <title>Carnet de voyage</title>
+      <link>https://atelier-des-embruns.netlify.app/categories/carnet-voyage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>https://atelier-des-embruns.netlify.app/categories/carnet-voyage/</guid>
+      <description>Quelques pages de mes carnets de voyages</description>
+    </item>
+    
+    <item>
+      <title>Les affiches</title>
+      <link>https://atelier-des-embruns.netlify.app/categories/affiche/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/categories/affiche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Les faire-parts</title>
+      <link>https://atelier-des-embruns.netlify.app/categories/faire-part/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/categories/faire-part/</guid>
+      <description>
+De jolies aquarelles pour partager les plus beaux moments de votre vie!Sous forme d&#39;affiche ou de carte, n&#39;hésitez pas à me contacter pour une réalisation personnalisée !</description>
+    </item>
+    
+    <item>
+      <title>Les illustrations naturalistes</title>
+      <link>https://atelier-des-embruns.netlify.app/categories/naturaliste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/categories/naturaliste/</guid>
       <description></description>
     </item>
     

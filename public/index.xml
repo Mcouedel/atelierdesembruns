@@ -2,122 +2,552 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L&#39;Atelier des embruns</title>
-    <link>/</link>
+    <link>https://atelier-des-embruns.netlify.app/</link>
     <description>Recent content on L&#39;Atelier des embruns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://atelier-des-embruns.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Octopus vulagris</title>
-      <link>/aquarelles/octopus-vulagris/</link>
-      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      <title>Umluj ~ Champs de lave volcanique</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/arabie_saoudite/volcanic-harrats/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>/aquarelles/octopus-vulagris/</guid>
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/arabie_saoudite/volcanic-harrats/</guid>
+      <description>Ces champs de laves se situent près de la ville de Umluj sur la côte ouest saoudienne. Ils se sont formés suite à plusieurs épisodes de coulée de lave basaltique, créeant ces formes distictives appellées harrats en arabe. Ces coulées de lave proviennent de fissures superficielles qui prennent la forme de monticule de scories. </description>
+    </item>
+    
+    <item>
+      <title>KAUST ligthhouse</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/arabie_saoudite/kaust-ligthhouse/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/arabie_saoudite/kaust-ligthhouse/</guid>
+      <description>Le phare emblématique de KAUST qui mesure 60m de haut avec son architecture qui est inspiré de l&#39;art arabe pour créer une interprétation moderne d&#39;un phare. </description>
+    </item>
+    
+    <item>
+      <title>Misainier rentrant au port</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/bretagne/misaignier-brigneau/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/bretagne/misaignier-brigneau/</guid>
+      <description>Pendant la première moitié du siècle, le misainier, ou canot breton à misaine, est le plus répandu des petits bateaux de pêche de Bretagne Sud. Les misainiers sont mis à l&#39;honneur chaque année lors de la Fête de la digue au port de Brigneau.Cette aquarelle se décline aussi au format carte postale : MisainierPhare de Brigneau</description>
+    </item>
+    
+    <item>
+      <title>Phare de Brigneau</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/bretagne/phare-de-brigneau/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/bretagne/phare-de-brigneau/</guid>
+      <description>Le port de Brigneau est un port authentique, d’intérêt patrimonial, qui offre de magnifiques variations de couleurs entre le bleu et le vert glaz, couleur typique de l’eau en Bretagne. C’est ici une vraie carte postale du port breton par excellence ! Autrefois, le port de Brigneau était un port de pêche comme en témoigne les murs encore présents de l’ancienne conserverie Malachappe d&#39;où est peint cette aquarelle. Cette aquarelle existe aussi au format carte postale : </description>
+    </item>
+    
+    <item>
+      <title>Brigneau</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/bretagne/brigneau/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/bretagne/brigneau/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cilaos ~ Bassin Fouquet</title>
-      <link>/aquarelles/paysages/reunion/cilaos-bassin-fouquet/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/aquarelles/paysages/reunion/cilaos-bassin-fouquet/</guid>
-      <description>Magnifique bassin au coeur du cirque de Cilaos, facilement accessible après une courte randonnée mais très pentue.</description>
-    </item>
-    
-    <item>
-      <title>Cap Jaune</title>
-      <link>/aquarelles/paysages/reunion/cap-jaune/</link>
-      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/aquarelles/paysages/reunion/cap-jaune/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mafate ~ Bassin la Noix</title>
-      <link>/aquarelles/paysages/reunion/mafate-bassin-la-noix/</link>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/mafate-bassin-la-noix/</link>
       <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>/aquarelles/paysages/reunion/mafate-bassin-la-noix/</guid>
-      <description>Après 6 ans à habiter sur l&amp;rsquo;île de La Réunion, j&amp;rsquo;ai pu enfin peindre le coeur de Mafate, l&amp;rsquo;ilet à Malheur.</description>
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/mafate-bassin-la-noix/</guid>
+      <description>Situé entre Aurère et ilet à Malheur au coeur de Mafate, le bassin la noix permet de faire une petite halte rafraichissante après une longue randonnée. Au creux d&amp;rsquo;un canyon étroit et ombragé, la baignade possible mais attention aux genoux.</description>
     </item>
     
     <item>
       <title>Mafate ~ Ilet à Malheur</title>
-      <link>/aquarelles/paysages/reunion/mafate-ilet-malheur/</link>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/mafate-ilet-malheur/</link>
       <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>/aquarelles/paysages/reunion/mafate-ilet-malheur/</guid>
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/mafate-ilet-malheur/</guid>
       <description>Après 6 ans à habiter sur l&amp;rsquo;île de La Réunion, j&amp;rsquo;ai pu enfin peindre le coeur de Mafate, l&amp;rsquo;ilet à Malheur.</description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/2020/12/01/hello-r-markdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>/2020/12/01/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>A Plain Markdown Post</title>
-      <link>/2016/12/30/a-plain-markdown-post/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
-      
-      <guid>/2016/12/30/a-plain-markdown-post/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
-You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
-    </item>
-    
-    <item>
-      <title>Qui suis-je ?</title>
-      <link>/about/</link>
+      <title>Contact</title>
+      <link>https://atelier-des-embruns.netlify.app/contact/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>/about/</guid>
-      <description>Test changement sur la page about</description>
-    </item>
-    
-    <item>
-      <title>Qui suis-je ?</title>
-      <link>/contact/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/contact/</guid>
+      <guid>https://atelier-des-embruns.netlify.app/contact/</guid>
       <description>Test changement sur la page contact</description>
     </item>
     
     <item>
-      <title>Lorem Ipsum</title>
-      <link>/2015/01/01/lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
+      <title>Qui suis-je ?</title>
+      <link>https://atelier-des-embruns.netlify.app/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>/2015/01/01/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://atelier-des-embruns.netlify.app/about/</guid>
+      <description>Coucou ! Moi c’est Marion, scientifique, couturière et aquarelliste. Ce que j&#39;aime plus que tout, c&#39;est satisfaire ma curiosité et ma soif d&#39;apprendre ! J&#39;ai commencé à peindre des tableaux à l&#39;acrylique au coté de ma grand-mère peintre, couturière et cuisinière (je crois que c&#39;est de famille les multiples hobbies 😇). Et puis avec les études scientifiques, j&#39;ai laissé mon coté créatif en stand-by, avec l&#39;idée un peu simpliste qu&#39;on était, soit scientifique, soit artistique (merci le formatage de la société).</description>
     </item>
     
     <item>
-      <title>Les aquarelles par localité</title>
-      <link>/aquarelles/localities/</link>
+      <title>Affiches 3 poissons</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/affiches/affiches-3-poissons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/aquarelles/localities/</guid>
-      <description>Aquarelles ici de mes carnets de voyages, peintent sur place, ou à partir de photos personnels.</description>
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/affiches/affiches-3-poissons/</guid>
+      <description>Deux affiches de trois poissons à l&#39;aquarelle, idéal pour une décoration symétrique </description>
     </item>
     
     <item>
-      <title>Vie marine</title>
-      <link>/aquarelles/marinelife/</link>
+      <title>Afrique du Sud</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/carnet_voyage/afrique-du-sud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/aquarelles/marinelife/</guid>
-      <description>Passionnée par les mondes marins, vous pouvez retrouver ici l&amp;rsquo;ensemble des organismes que j&amp;rsquo;ai peint.
-Je me suis penchée à plusieurs thématiques :
-La vie marine de Bretagne Les habitants des récifs coralliens Les poissons Les organismes marins: - pageRef: /marinelife/name: Vie marineurl: /aquarelles/marinelifeparent: Aquarellesweight: 31Pourquoi se limiter à une catégrorie quand on peut tous les retrouver ici :</description>
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/carnet_voyage/afrique-du-sud/</guid>
+      <description> A l&#39;occasion du 14ème symposium du WIOMSA, j&#39;ai eu l&#39;occasion d&#39;aller en Afrique du Sud à Port-Elizabeth. Une semaine enrichissante et pleine de découverte.Cape Recife Natural ReserveSpot d&#39;escalade à Van StandenFaunes sauvages rencontrées en safariFleurs sauvages</description>
+    </item>
+    
+    <item>
+      <title>Agapanthe</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/flores/agapanthus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/flores/agapanthus/</guid>
+      <description>L&amp;rsquo;agapanthe est une plante vivace originaire d&amp;rsquo;Afrique du Sud qui fleurit en été avec de magnifiques ombelles sphériques de fleurs allant du bleu foncé au blanc. On la retrouve dans de nombreux jardins bretons, surtout sur les bords de côte, au même titre que les hortensias.</description>
+    </item>
+    
+    <item>
+      <title>Arabie saoudite</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/carnet_voyage/saudia-arabia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/carnet_voyage/saudia-arabia/</guid>
+      <description> Depuis septembre 2023, je vis en Arabie Saoudite au bord de la mer rouge Vue de la piscinePhare de KAUST et pause café à Al-Balad Portes historiques de la vielle ville de Jeddah, Al-Balad Vanneau à éperonsDromadaire croisé sur la route pour se rendre à JizanGrottes de Al Ahsa à l&#39;est du paysBateau de pêche traditionnel saoudienChamps de laves près de Umluj</description>
+    </item>
+    
+    <item>
+      <title>Assortiment de fruits tropicaux</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/affiches/fruits-tropicaux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/affiches/fruits-tropicaux/</guid>
+      <description>Assortiment de fruits tropicaux inspiré par les marchés forains de La Réunion.</description>
+    </item>
+    
+    <item>
+      <title>Assortiment de légumes</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/affiches/legumes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/affiches/legumes/</guid>
+      <description>Assortiment de légumes peint à l&#39;aquarelle. S&#39;associe très bien avec l&#39;affiche des fruits tropicaux</description>
+    </item>
+    
+    <item>
+      <title>Brigneau</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/affiches/brigneau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/affiches/brigneau/</guid>
+      <description>Affiche composée de différentes aquarelles de moments passés à Brigneau</description>
+    </item>
+    
+    <item>
+      <title>Calamar</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/calamar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/calamar/</guid>
+      <description>Le calamar de récif à grandes nageoiresSepioteuthis lessoniana peut être observé dans le lagon de l&#39;île de La Réunion. Son corps est translucide, mais parcouru de reflets métalliques verts ou bleutés, et moucheté de points scintillants pouvant émettre de la lumière par bioluminescence (ces organes spéciaux contiennent des bactéries bioluminescentes). Ces calamars sont pourvus de dix tentacules, mais seuls huit sont visibles en temps normal, les deux tentacules de chasse étant dissimulés</description>
+    </item>
+    
+    <item>
+      <title>Cilaos ~ Bassin Fouquet</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/cilaos-bassin-fouquet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/cilaos-bassin-fouquet/</guid>
+      <description>Magnifique bassin au coeur du cirque de Cilaos, facilement accessible après une courte randonnée mais très pentue.</description>
+    </item>
+    
+    <item>
+      <title>Cilaos ~ Cascade de Fleurs Jaunes</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/cilaos-cascade-fleurs-jaunes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/cilaos-cascade-fleurs-jaunes/</guid>
+      <description>A mi-chemin sur la route entre Cilaos à l’Îlet à Cordes, la cascade de Fleurs Jaunes est nichée dans un virage à proximité d&amp;rsquo;une aire de pique-nique. Elle se jette dans un bassin à l’eau translucide où la baignade très rafraîchissante.</description>
+    </item>
+    
+    <item>
+      <title>Croquis rapide de coquillages</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/croquis-coquillages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/croquis-coquillages/</guid>
+      <description>Petits croquis rapides pour travailler les différentes formes de coquillages </description>
+    </item>
+    
+    <item>
+      <title>Diversité des récifs coralliens</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/affiches/diversite-recifs-coralliens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/affiches/diversite-recifs-coralliens/</guid>
+      <description> Poster naturaliste sur le diversité des récifs coralliens </description>
+    </item>
+    
+    <item>
+      <title>Finistère sud</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/carnet_voyage/finistere-sud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/carnet_voyage/finistere-sud/</guid>
+      <description> Depuis ma petite enfance, je passe mes étés à contempler la mer de ce joli petit coin de Bretagne. Maintenant, je peux l&#39;emmener avec moi dans mes carnets. Matin de retour de pêcheLes Vérres depuis le chemin côtierDigue de Brigneau vue depuis le chemin côtier de Malachape Aquarelle rapide à la plage Cueillette dans les bois Maisonnette abandonnée à KerziouQuand l&#39;eau est trop froide on peut toujours la peindre </description>
+    </item>
+    
+    <item>
+      <title>Herbes aromatiques en cuisine</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/affiches/herbes-aromatiques/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/affiches/herbes-aromatiques/</guid>
+      <description>Poster naturaliste sur les herbes aromatiques utilisées en cuisine </description>
+    </item>
+    
+    <item>
+      <title>Hortensia</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/flores/hydrangea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/flores/hydrangea/</guid>
+      <description>L&#39;hortensia est un genre ( Hydrangea ) d&#39;arbustes dont les fleurs forment de généreuses boules aux couleurs flamboyantes emblématiques de la Bretagne et de la Normandie. Du rose allant au bleu, la couleur de ses fleurs liée au pH du sol.</description>
+    </item>
+    
+    <item>
+      <title>Ibis</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/ibis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/ibis/</guid>
+      <description>L&amp;rsquo;ibis hadada porte son nom dû à son cri composé des 3 syllabes &amp;ldquo;ha-da-da&amp;rdquo;. c&amp;rsquo;est un peu le piegon d&amp;rsquo;afrique du Sud.</description>
+    </item>
+    
+    <item>
+      <title>Irlande du Nord ~ Mussenden Temple</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/voyage/irlande-du-nord-mussenden-temple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/voyage/irlande-du-nord-mussenden-temple/</guid>
+      <description>Perché en haut de la falaise surplombant la plage de Downhill, le Mussenden Temple a été construit en 1975 pour faire office de bibliothèque. Il était autrefois possible d&amp;rsquo;en faire le tour à pied, mais l&amp;rsquo;érosion côtière à rapprocher le bord de la falaise jusqu’à la limite du temple. Le National Trust a pris en charge des travaux de stabilisation de la falaise en 1997 pour éviter de perdre le batiment.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;autruche</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/autruche/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/autruche/</guid>
+      <description>L&#39;autruche est plus grand oiseau actuel, mais qui est malheureusement menacé de disparition. L’autruche est le plus rapide des oiseaux terrestres. Elle peut courir à la vitesse de 40 km/h pendant une demi-heure et avec des pointes à 90 km/h sur de très courtes distances, elle est plus rapide que la lionne ! L’autruche peut sauter 1,50 mètre en hauteur et 4 mètres en longueur</description>
+    </item>
+    
+    <item>
+      <title>L&#39;Éléphant de savane d&#39;Afrique</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/elephant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/elephant/</guid>
+      <description>L&amp;rsquo;Éléphant de savane d&amp;rsquo;Afrique, Loxodonta africana, est l&amp;rsquo;un des plus grand animaux terrestres vivant actuellement. De récentes études génétiques ont permis de démontrer que les deux principales sous-espèces africaines Loxodonta africana africana et Loxodonta africana cyclotis sont en fait deux espèces distinctes ! Vive la genet ! Je fais pareil chez les poissons 🥰</description>
+    </item>
+    
+    <item>
+      <title>La Réunion</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/carnet_voyage/la-reunion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/carnet_voyage/la-reunion/</guid>
+      <description>La Réunion, l&amp;rsquo;île intense, dés que l&amp;rsquo;on mets le nez dehors, il y a quelques choses à peindre. Alors lorsque l&amp;rsquo;on s&amp;rsquo;enfonce dans les paysages sauvages, le plus dur c&amp;rsquo;est de choirir quel plan peindre.
+Le NordRivière des PluiesRivière Saint DenisBalais des oiseaux tisserins confectionnant leurs nidsL&#39;OuestLa savane de Cap la HoussayeRandonnée au chemin pavé de Bois RougePlage de l&#39;HermitageL&#39;Est, la côte sous le ventPrommenade au tour du Grand EtangRivière du MâtLe Sud sauvageLes falaises de Cap JauneLes cirquesMafate ~ Ilet à MalheurCilaos ~ Bassin BleuCilaos ~ Bassin de Cap NoirWeek-end à Cilaos</description>
+    </item>
+    
+    <item>
+      <title>La rivière des Pluies</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/riviere-des-pluies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/riviere-des-pluies/</guid>
+      <description>La rivière des Pluies est un petit joyau de verdures à l&amp;rsquo;est de Saint-Denis. On s&amp;rsquo;enfonce très rapidement dans la ravine et on change totalement d&amp;rsquo;environnement. La baignade peut se faire dans les nombreux petits bassins.</description>
+    </item>
+    
+    <item>
+      <title>Le babouin chacma</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/babouin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/babouin/</guid>
+      <description>Papio ursinus ursinus, est une espèce de gros babouins de savane. Il s&amp;rsquo;agit de la plus grande et la plus grosse espèce du genre Papio. Ils n&amp;rsquo;attaquent pas spontanément les humains mais ils n&amp;rsquo;hésitent pas à utiliser leurs canines, plus longues que celles des lions, pour saisir de la nourriture, défendre leur progéniture ou s&amp;rsquo;ils se sentent pris au piège. On n&amp;rsquo;a pas fait les fières en rando quand on a vu des traces de pas sur les sables et encore moins quand on les a entendu crier😅</description>
+    </item>
+    
+    <item>
+      <title>Le bubale rouge</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/bubale-rouge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/bubale-rouge/</guid>
+      <description>Le bubale rouge, Alcelaphus buselaphus caama, également appelé bubale du Cap ou Caama, est une grande antilope africaine. C&amp;rsquo;est le bubale le plus coloré, avec des marques noires contrastant avec son abdomen et son derrière blancs. Il a une face plus longue que les autres sous-espèces, avec des cornes complexes et incurvées jointes à la base.</description>
+    </item>
+    
+    <item>
+      <title>Le Zèbre des plaines</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/zebre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/zebre/</guid>
+      <description>Le zèbre des plaines possède des bandes noires relativement larges, qui sont verticales sur le corps, mais deviennent horizontales sur l&amp;rsquo;arrière-train. Dans certaines populations, comme celle rencontré ici, on peut voir la présence de légères rayures « d&amp;rsquo;ombre » brunes entre les bandes principales</description>
+    </item>
+    
+    <item>
+      <title>Les aquarelles sur-mesure  ?</title>
+      <link>https://atelier-des-embruns.netlify.app/commissions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/commissions/</guid>
+      <description>Je serais très heureuse de partager petits et grands moments de bonheur avec vous à travers mes aquarelles. Que ça soit pour annoncer un grand évènement ou bien faire plaisir à vos proches pour un anniversaire ou Noël N&#39;hésitez pas à me contacter via les réseaux sociaux :
+Aquarelles réalisées sur-mesures :Aquarelles au format numérique :Trois aquarelles au format numérique pour illustrer les bijoux en écailles de poisson créer par Sophie de Babou&#39;ni .</description>
+    </item>
+    
+    <item>
+      <title>Macareux moine</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/macareux-moine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/macareux-moine/</guid>
+      <description>Le Macareux moine (Fratercula arctica), aussi appelé perroquet de mer ou calculot , est une espèce d&#39;oiseaux marins pélagiques nord-atlantique qui vit en haute mer, sauf lors de sa reproduction qui le contraint à rejoindre la terre ferme où il niche sur les pentes enherbées, les îles ou sur des falaises (insulaires ou continentales).</description>
+    </item>
+    
+    <item>
+      <title>Misainier</title>
+      <link>https://atelier-des-embruns.netlify.app/categories/carte/misainier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/categories/carte/misainier/</guid>
+      <description>Pendant la première moitié du siècle, le misainier, ou canot breton à misaine, est le plus répandu des petits bateaux de pêche de Bretagne Sud. Les misainiers sont mis à l&#39;honneur chaque année lors de la Fête de la digue au port de Brigneau.Cette aquarelle se décline aussi en grand format : Misainier rentrant au port</description>
+    </item>
+    
+    <item>
+      <title>Mouette rieuse</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/mouette-rieuse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/mouette-rieuse/</guid>
+      <description>La mouette rieuse (Chroicocephalus ridibundus, anciennement Larus ridibundus), est de couleur blanche avec les ailes gris perle sauf l&#39;extrémité noire. La tête est brun sombre sauf en hiver où elle est blanche avec une tache noirâtre derrière l&#39;œil. Les pattes sont orange ou rouge-orangé. Le bec est orangé à rouge sombre.</description>
+    </item>
+    
+    <item>
+      <title>Naissance de Jean</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/faire-parts/naissance-de-jean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/faire-parts/naissance-de-jean/</guid>
+      <description>Petite affiche réalisée à l&#39;occasion de la naissance du petit Jean que j&#39;ai offerte aux jeunes parents pour leur souhaiter nos meilleurs voeux. Elle peut également être réalisée sous forme de carte pour annoncer l&#39;heureux évènements à votre entourage.N&#39;hésitez pas à me contacter pour une réalisation personnalisée !</description>
+    </item>
+    
+    <item>
+      <title>Nantes ~ La grue Jaune</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/bretagne/nantes-la-grue-jaune/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/bretagne/nantes-la-grue-jaune/</guid>
+      <description>Iconique grue jaune des quais de Nantes. Peinte pour imortaliser le souvenir d&amp;rsquo;une balade sur la Loire en famille.</description>
+    </item>
+    
+    <item>
+      <title>Napoléon</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/napoleon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/napoleon/</guid>
+      <description>Le Napoléon au apellé le labre géant, Cheilinus undulatus, est le plus grand des poissons osseux des récifs coralliens. Ils dorment souvent dans les anfractuosités du récifs qu&#39;ils fréquentent ou dans les épaves. On les retrouve dans les eaux tropicales de la Mer Rouge, de l&#39;Océan Indien jusqu&#39;aux îles du centre de l&#39;Océan Pacifique.</description>
+    </item>
+    
+    <item>
+      <title>Normandie ~ L&#39;Eure</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/carnet_voyage/normandie-eure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/carnet_voyage/normandie-eure/</guid>
+      <description>
+Château médiéval de Gisors</description>
+    </item>
+    
+    <item>
+      <title>Paille-en-queue</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/paille-en-queue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/paille-en-queue/</guid>
+      <description>Poussin du célèbre paille-en-queue dont la silhouette gracieuse est souvent utilisée comme emblème dans les Mascareignes.</description>
+    </item>
+    
+    <item>
+      <title>Petit balisier</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/flores/heliconia-psittacorum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/flores/heliconia-psittacorum/</guid>
+      <description>Le petit balisier, Heliconia psittacorum,est une plante herbacée aux fleurs vivement colorées d&#39;orange à rose. On la retrouve très communément dans les jardins créoles. Celle-ci a été peinte dans le jardin du gîte que nous avions réservé dans le Sud Sauvage de La Réunion.</description>
+    </item>
+    
+    <item>
+      <title>Phare de Brigneau</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/bretagne/phare-de-brigneau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/bretagne/phare-de-brigneau/</guid>
+      <description>Pendant la première moitié du siècle, le misainier, ou canot breton à misaine, est le plus répandu des petits bateaux de pêche de Bretagne Sud. Les misainiers sont mis à l&#39;honneur chaque année lors de la Fête de la digue au port de Brigneau.Cette aquarelle se décline aussi en grand format : Misainier rentrant au port</description>
+    </item>
+    
+    <item>
+      <title>Poisson cocher</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/poisson-cocher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/poisson-cocher/</guid>
+      <description>L&#39;Heniochus acuminatus est plus communément nommé poisson-cocher commun. On le retrouve souvent en couple dans les zones récifales cotières de faible profondeur de l&#39;Indo-Pacifique </description>
+    </item>
+    
+    <item>
+      <title>Porte bleue à Al-balad</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/arabie_saoudite/jeddah-blue-door/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/arabie_saoudite/jeddah-blue-door/</guid>
+      <description>La ville portuaire de Jeddah est la seconde plus grande ville d’Arabie Saoudite. Elle est située le long de la Mer Rouge dans la province de Makkah. Al-Balad, qui se traduit littéralement par “la ville” est le centre historique de Jeddah. Les bâtiments historiques sont caractérisés par de jolies portes en bois sculptés ainsi que par des balcons fermés en bois, similaire aux Mashrabiya en Egypte ou en Irak. </description>
+    </item>
+    
+    <item>
+      <title>Porte fleurie en Bretagne</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/bretagne/porte-fleurie-en-bretagne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/bretagne/porte-fleurie-en-bretagne/</guid>
+      <description>Les petits villages bretons regorgent de jolies maisonnettes en pierre dont les portes sont souvent fleuries </description>
+    </item>
+    
+    <item>
+      <title>Porte historique à Al-balad</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/arabie_saoudite/jeddah-brown-door/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/arabie_saoudite/jeddah-brown-door/</guid>
+      <description>La ville portuaire de Jeddah est la seconde plus grande ville d’Arabie Saoudite. Elle est située le long de la Mer Rouge dans la province de Makkah. Al-Balad, qui se traduit littéralement par “la ville” est le centre historique de Jeddah. Les bâtiments historiques sont caractérisés par de jolies portes en bois sculptés ainsi que par des balcons fermés en bois, similaire aux Mashrabiya en Egypte ou en Irak. </description>
+    </item>
+    
+    <item>
+      <title>Porte historique d&#39;Al-balad</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/arabie_saoudite/jeddah-pillars-doors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/arabie_saoudite/jeddah-pillars-doors/</guid>
+      <description>La ville portuaire de Jeddah est la seconde plus grande ville d’Arabie Saoudite. Elle est située le long de la Mer Rouge dans la province de Makkah. Al-Balad, qui se traduit littéralement par “la ville” est le centre historique de Jeddah. Les bâtiments historiques sont caractérisés par de jolies portes en bois sculptés ainsi que par des balcons fermés en bois, similaire aux Mashrabiya en Egypte ou en Irak. </description>
+    </item>
+    
+    <item>
+      <title>Porte verte à Al-balad</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/arabie_saoudite/jeddah-green-door/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/arabie_saoudite/jeddah-green-door/</guid>
+      <description>La ville portuaire de Jeddah est la seconde plus grande ville d’Arabie Saoudite. Elle est située le long de la Mer Rouge dans la province de Makkah. Al-Balad, qui se traduit littéralement par “la ville” est le centre historique de Jeddah. Les bâtiments historiques sont caractérisés par de jolies portes en bois sculptés ainsi que par des balcons fermés en bois, similaire aux Mashrabiya en Egypte ou en Irak. </description>
+    </item>
+    
+    <item>
+      <title>Récifs coralliens</title>
+      <link>https://atelier-des-embruns.netlify.app/series/coral_reefs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/series/coral_reefs/</guid>
+      <description>Passionnée par les mondes marins, ma spécialité c&amp;rsquo;est le monde coloré des récifs coralliens. Parmis les organismes qui y vivent on retrouve toutes sortent de formes et de couleurs !</description>
+    </item>
+    
+    <item>
+      <title>Rose du désert</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/flores/adenium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/flores/adenium/</guid>
+      <description>Ce nom doux et poétique cache en fait une plante résistante et capable de résister à la chaleur et aux sécheresses. La Rose du désert, qui présente un aspect atypique et original, un tronc eayant un gros renflement gris-vert situé à la base du tronc qui sert d&#39;organe de réserve. On trouve les espèces d&#39;Adenium au sud de l&#39;Arabie, au Yémen (île de Socotra), sur les côtes est-africaines, jusqu&#39;au sud de l&#39;Angola et de Namibie, en Afrique subsaharienne, sans qu&#39;il soit possible de déterminer si le genre est natif d&#39;une de ces régions ou s&#39;il a été naturalisé par suite d&#39;importation humaine.</description>
+    </item>
+    
+    <item>
+      <title>Saint-Leu  ~ Parapente</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/saint-leu-parapente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/saint-leu-parapente/</guid>
+      <description>Lorsque l&amp;rsquo;on lève les yeux à Saint-Leu, on peut admirer les parapentistes qui cotoient les cieux tels les paille-en-queues. L&amp;rsquo;atterissage se fait en douceur sur la plage derrière le centre de soin des tortues marines, Kelonia.</description>
+    </item>
+    
+    <item>
+      <title>Saint-Paul ~ Chemin bois rouge</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/saint-paul-chemin-bois-rouge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/saint-paul-chemin-bois-rouge/</guid>
+      <description>Sentier pavé qui serpente dans les hauts arides de Saint-Paul avec une jolie vue sur l&amp;quot;océan</description>
+    </item>
+    
+    <item>
+      <title>Salazie ~ Rivière Fleurs Jaune</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/salazie-riviere-fleurs-jaunes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/salazie-riviere-fleurs-jaunes/</guid>
+      <description>La rivière Fleurs Jaunes serpente au seins du cirque de Salazie, entre Salazie et Grand Ilet. On peut remonté le cours d&amp;rsquo;eau et ainsi voir de plus près des magnifiques cascades, des grottes et de superbes gorges</description>
+    </item>
+    
+    <item>
+      <title>Vanillier de cayenne</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/flores/duranta-erecta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/flores/duranta-erecta/</guid>
+      <description>Le vanillier de Cayenne, Duranta erecta, est un arbuste ornemental originaire des régions tropicales d&#39;Amérique centrale. A La Réunion, il peut atteindre 4 à 6 mètres de hauteur, pour une largeur égale. Cette jolie grappe de fleurs violettes a été peinte dans le cirque de Mafate à La Réunion.</description>
+    </item>
+    
+    <item>
+      <title>Veules-les-roses</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/affiches/veules-les-roses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/affiches/veules-les-roses/</guid>
+      <description>Affiche composée de différentes aquarelles de souvenirs de Veules-les-roses</description>
+    </item>
+    
+    <item>
+      <title>Veules-les-roses</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/voyage/veules-les-roses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/voyage/veules-les-roses/</guid>
+      <description>Se reposer sur la terrasse vue mer après s&#39;être baigné à Veules-les-roses </description>
+    </item>
+    
+    <item>
+      <title>Vincendo ~ Cap Jaune</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/cap-jaune/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/paysages/reunion/cap-jaune/</guid>
+      <description>Dans le Sud Sauvage à Vincendo, le Cap Jaune est une curiosité géologique d’une hauteur de 50 mètres. Le Cap Jaune est une falaise de couleur ocre formée par des coulées de lave se déversant dans l’eau.</description>
+    </item>
+    
+    <item>
+      <title>Vivaneau soie</title>
+      <link>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/lutjanus_vivanus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-des-embruns.netlify.app/aquarelles/naturalistes/faunes/lutjanus_vivanus/</guid>
+      <description>Le vivaneau soieLutjanus vivanus est péché dans les eaux réunionnaises et est très apprécié en cuisine</description>
     </item>
     
   </channel>
