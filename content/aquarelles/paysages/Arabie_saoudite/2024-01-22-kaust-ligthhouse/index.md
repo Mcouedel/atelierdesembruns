@@ -2,6 +2,7 @@
 title: KAUST ligthhouse
 date: '2024-01-22'
 slug: kaust-ligthhouse
+description: "Illustration à l'aquarelle du phare de KAUST, Arabie Saoudite"
 categories:
   - Carte
   - Paysage
