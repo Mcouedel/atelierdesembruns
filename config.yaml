@@ -1,6 +1,6 @@
 baseurl: https://atelier-des-embruns.netlify.app/
 languageCode: en-US
-title: L'Atelier des embruns
+title: L'Atelier des embruns - Illustrations à l'aquarelle
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
@@ -55,8 +55,8 @@ menu:
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5 
-  description: "L'atelier des embruns, aquarelles insiprées par la nature"
-  SiteDescription: "L'atelier des embruns, des illustrations naturelles peintes à aquarelle à travers le monde"
+  description: "Découvrez mes illustration à l'aquarelle, dédié à la beauté naturelle. Explorez une collection d'œuvres captivantes où la nature prend vie à travers des paysages, des fleurs et des animaux, peints avec une sensibilité artistique unique. Laissez-vous inspirer par la magie de l'aquarelle et de la nature."
+  SiteDescription: "Découvrez mes illustration à l'aquarelle, dédié à la beauté naturelle. Explorez une collection d'œuvres captivantes où la nature prend vie à travers des paysages, des fleurs et des animaux, peints avec une sensibilité artistique unique. Laissez-vous inspirer par la magie de l'aquarelle et de la nature."
   favicon: favicon.ico 
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   highlightjsLang:
