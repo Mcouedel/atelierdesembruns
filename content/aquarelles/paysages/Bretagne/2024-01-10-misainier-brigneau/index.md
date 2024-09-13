@@ -8,6 +8,7 @@ categories:
 Localities:
 - Bretagne
 Series: ~
+Description: "Aquarelle d'un misainier rentrant au port de Brigneau'"
 ---
 <center>
 <img alt="[Misainier rentrant au port de Brigneau]" src="misainier-brigneau-featured-image.jpg" width=50%> 

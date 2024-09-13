@@ -1,5 +1,5 @@
 ---
-title: Phare de Brigneau
+title: Phare de Brigneau depuis le port
 author: ''
 date: ''
 slug: phare-de-brigneau
@@ -8,6 +8,7 @@ categories:
 Localities: 
   - Bretagne
 Series: ~
+Description: "Aquarelle du phare de Brigneau vue depuis le port"
 ---
 <center>
 <img alt="[Phare de Brigneau]" src="carte_phareBrigneau-featured-image.jpg" width=50%> 

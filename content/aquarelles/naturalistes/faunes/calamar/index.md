@@ -8,11 +8,15 @@ categories:
 Localities:
   - La Réunion
 Series:
-  - marinelife
-  - reunion_diversity
+  - marine_life
+  - diversite_reunion
   - coral_reefs
+description: "Illustration à l'aquarelle d'un calamar observé lors d'une sortie en snorkeling dans le lagon de l'île de La Réunion."
 ---
 <center>
+<h1 style="font-size: 120%">
+Illustration à l'aquarelle d'un calamar observé lors d'une sortie en snorkeling dans le lagon de l'île de La Réunion
+</h1>
 <img alt="[calamar à l'aquarelle]" src="calamar-featured-image.jpg" width=50%> 
 <br>
 <br>

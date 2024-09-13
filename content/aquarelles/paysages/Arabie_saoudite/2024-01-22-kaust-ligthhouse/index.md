@@ -1,5 +1,6 @@
 ---
 title: KAUST ligthhouse
+author: 'Marion Couëdel - Atelier des embruns'
 date: '2024-01-22'
 slug: kaust-ligthhouse
 description: "Illustration à l'aquarelle du phare de KAUST, Arabie Saoudite"
@@ -7,10 +8,12 @@ categories:
   - Carte
   - Paysage
 Localities: 
-  - saudia-arabia
+  - saudi-arabia
 Series: ~
 ---
 <center>
+<h1 style="font-size: 120%">
+Illustration à l'aquarelle du phare emblématique de KAUST, Arabie Saoudite</h1>
 <img alt="[KAUST beacon" src="kaust-beacon-featured-image.jpg" width=50%> 
 <br>
 <br>

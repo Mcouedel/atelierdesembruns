@@ -8,9 +8,11 @@ categories:
 Localities:
   - Bretagne
 Series: 
-  - Oiseaux
+  - birds
+description: "Illustration naturaliste à l'aquarelle d'un macareux moine"
 ---
 <center>
+<h1 style="font-size: 120%">Illustration naturaliste à l'aquarelle d'un macareux moine</h1>
 <img alt="[Aquarelle d'un Macareux moine]" src="fratercula-featured-image.jpg" width=50%> 
 <br>
 <br>

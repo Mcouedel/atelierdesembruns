@@ -7,6 +7,7 @@ categories:
   - Paysage
 tags:
   - Bretagne
+Description: "Aquarelle de l'iconique grue jaune des quais de Nantes"
 ---
 
 <center>

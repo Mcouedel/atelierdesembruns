@@ -9,9 +9,13 @@ Localities:
   - Bretagne
   - Normandie
 Series: 
-  - Oiseaux
+  - birds
+  - diversite_bretagne
+description: "Illustration naturaliste à l'aquarelle d'une mouette rieuse en Bretagne"
 ---
 <center>
+<h1 style="font-size: 120%">Illustration naturaliste à l'aquarelle d'une mouette rieuse en Bretagne</h1>
+
 <img alt="[Aquarelle d'une mouette rieuse]" src="mouette-rieuse-featured-image.jpg" width=50%> 
 <br>
 <br>

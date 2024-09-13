@@ -8,10 +8,12 @@ categories:
 Localities:
   - La Réunion
 Series:
-  - marinelife
-  - reunion_diversity
+  - marine_life
+  - diversite_reunion
+description: "Illustration naturaliste à l'aquarelle du vivaneau soie"
 ---
 <center>
+<h1 style="font-size: 120%">Illustration naturaliste à l'aquarelle du vivaneau soie</h1>
 <img alt="[Lutjanus vinanus à l'aquarelle]" src="lutjanus-vivanus-featured-image.jpg" width=50%> 
 <br>
 <br>

@@ -4,11 +4,12 @@ author: ''
 date: ''
 slug: normandie-eure
 categories:
-  - carnet-voyage
+  - carnet_voyage
 tags: []
 Localities: 
   - Normandie
 Series: ~
+description: "Illsurtation à l'aquarelle du Chateau de Gisors"
 ---
 
 <br>
@@ -17,7 +18,7 @@ Series: ~
   <div class='row justify-content-center'>
     <div class="carnet_2p_card">
       <div class="featured_img">
-        <img src="gisors-double-page.jpg" alt="Chateau de Gisors"/></div>
+        <img src="gisors-double-page.jpg" alt="Illsurtation à l'aquarelle du Chateau de Gisors"/></div>
       <div class="featured_txt" style="background-color: papayawhip">Château médiéval de Gisors</div>
     </div>
 </div>

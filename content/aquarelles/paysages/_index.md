@@ -4,6 +4,7 @@ author: "M. Couëdel"
 output: html_document
 layout: single
 disableshare : true
+Description: "Voyager en France ou à l'international avce mes paysages à l'aquerelle issues de mes carnets de voyages, peints sur place, ou à partir de photos personnels."
 ---
 <center>
 Paysages issues de mes carnets de voyages, peints sur place, ou à partir de photos personnels.

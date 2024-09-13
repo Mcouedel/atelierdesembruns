@@ -8,11 +8,13 @@ categories:
 Localities:
   - La Réunion
 Series:
-  - marinelife
-  - reunion_diversity
+  - marine_life
+  - diversite_reunion
   - coral_reefs
+description: "Illustration naturaliste à l'aquarelle d'un poisson napoléon à La Réunion"
 ---
 <center>
+<h1 style="font-size: 120%">Illustration naturaliste à l'aquarelle d'un poisson Napoléon à La Réunion</h1>
 <img alt="[Poisson Napoléon à l'aquarelle]" src="napoleon-featured-image.jpg" width=50%> 
 <br>
 <br>

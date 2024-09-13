@@ -1,5 +1,6 @@
 ---
-title: L'Afrique du Sud
+title: Afrique du Sud
 author: M. Couëdel
-description: "Illustrations à l'aquarelle lors d'un safari en l'Afrique du Sud"
+description: "Découvrez ma collection d'aquarelles inspirées par la beauté sauvage de l'Afrique du Sud."
 ---
+Découvrez ma collection d'aquarelles inspirées par la beauté sauvage de l'Afrique du Sud. J'ai eu l'occassion de peindre les illustrations suivantes lors d'un safari en Afrique du Sud au Addo Elephant National Park en 2022. 

@@ -5,8 +5,9 @@ slug: volcanic-harrats
 categories:
   - Paysage
 Localities: 
-  - saudia-arabia
+  - saudi-arabia
 Series: ~
+Description: "Watercolors of the volcanic harrat of Umluj, Saudi Arabia"
 ---
 <center>
 <img alt="[Umluj volcanic harrat" src="volcanic-harrats-featured-image.jpg" width=40%> 

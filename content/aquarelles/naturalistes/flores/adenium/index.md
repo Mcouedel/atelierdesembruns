@@ -1,16 +1,19 @@
 ---
 title: Rose du désert
-author: ''
+author: 'Marion Couëdel - Atelier des embruns'
 date: ''
 categories:
   - Naturaliste
   - Carte
 Localities:
-  - saudia-arabia
+  - saudi-arabia
 Series:
-  - fleurs
+  - flowers
+description: "Illustration à l'aquarelle de l'arbre du désert, Adenium, que retrouve communément en Arabie Saoudite"
 ---
 <center>
+<h1 style="font-size: 120%">
+Illustration à l'aquarelle de l'arbre du désert que retrouve communément en Arabie Saoudite</h1>
 <img alt="[Rose du désert à l'aquarelle]" src="adenium_featured-image.jpg" width=50%> 
 <br>
 <br>

@@ -1,6 +1,6 @@
 ---
 title: Vanillier de cayenne
-author: ''
+author: 'Marion Couëdel - Atelier des embruns'
 date: ''
 slug: Duranta erecta
 categories:
@@ -9,10 +9,13 @@ categories:
 Localities:
   - La Réunion
 Series:
-  - reunion_diversity
-  - fleurs
+  - diversite_reunion
+  - flowers
+description: "Illustration à l'aquarelle d'une branche d'un vanillier de Cayenne à La Réunion"
 ---
 <center>
+<h1 style="font-size: 120%">
+Illustration à l'aquarelle d'une branche d'un vanillier de Cayenne à La Réunion</h1>
 <img alt="[Duranta-erecta à l'aquarelle]" src="duranta-erecta-featured-image.jpg" width=50%> 
 <br>
 <br>

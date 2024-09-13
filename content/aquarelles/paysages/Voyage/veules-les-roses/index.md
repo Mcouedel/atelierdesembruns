@@ -8,6 +8,7 @@ categories:
 Localities: 
   - Normandie
 Series: ~
+Description: "Aquarelle du front de mer de Veules-les-Roses"
 ---
 
 <center>

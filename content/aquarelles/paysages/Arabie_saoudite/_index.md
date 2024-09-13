@@ -3,6 +3,6 @@ title: "Les paysages saoudiens"
 author: "M. Couëdel"
 output: html_document
 show_social_links: true
-description: "Illustrations à l'aquarelle des paysages variées de l'Arabie Saoudite"
+description: "Découvrez la beauté des paysages désertiques et des couleurs vibrantes de l'Arabie saoudite"
 ---
-Découvrez les paysages de l'Arabie Saoudite
+Découvrez la beauté des paysages désertiques et des couleurs vibrantes de l'Arabie saoudite.

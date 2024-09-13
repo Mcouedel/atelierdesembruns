@@ -8,11 +8,14 @@ categories:
 Localities:
   - Afrique du Sud
 series:
-  - Safari en Afrique du Sud
+  - south_africa_safari
+description: "Illustration à l'aquarelle d'un babouin observé lors d'un safari en Afrique du Sud."
 ---
 <center>
+<h1 style="font-size: 120%">Illustration à l'aquarelle d'un babouin observé lors d'un safari en Afrique du Sud.</h1>
 <img alt="[Babouin à l'aquarelle]" src="babouin-featured-image.jpg" width=50%> 
-
+<br>
+<br>
 **Papio ursinus ursinus**, est une espèce de gros babouins de savane. Il s'agit de la plus grande et la plus grosse espèce du
 genre **Papio**. Ils n'attaquent pas spontanément les
 humains mais ils n'hésitent pas à utiliser leurs canines,

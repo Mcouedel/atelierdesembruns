@@ -8,10 +8,12 @@ categories:
 Localities:
   - La Réunion
 Series:
-  - reunion_diversity
-  - Oiseaux
+  - diversite_reunion
+  - birds
+description: "Illustration naturaliste à l'aquarelle d'un paille en queue emblématique de l'île de La Réunion"
 ---
 <center>
+<h1 style="font-size: 120%">Illustration naturaliste à l'aquarelle d'un paille en queue</h1>
 <img alt="[Poster naturaliste diversité corallienne à l'aquarelle]" src="phaethon-featured-image.jpg" width=50%> 
 <br>
 <br>

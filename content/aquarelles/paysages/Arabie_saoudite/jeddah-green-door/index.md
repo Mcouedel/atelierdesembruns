@@ -9,6 +9,7 @@ Localities:
 Series:
   - aesthetic_doors
   - jeddah_doors
+Description: "Watercolors of Al-balad green door in Jeddah"
 ---
 <center>
 <img alt="[Watercolors of Al-balad door in Jeddah" src="carte_jeddah_green_door_featured-image.jpg" width=50%> 

@@ -1,5 +1,5 @@
 ---
-title: Phare de Brigneau
+title: Phare de Brigneau depuis la sardinerie
 author: ''
 date: '2024-01-08'
 slug: phare-de-brigneau
@@ -9,6 +9,7 @@ categories:
 Localities:
 - Bretagne
 Series: ~
+Description: "Aquarelle du phare de Brigneau vue depuis l'ancienne sardinerie"
 ---
 <center>
 <img alt="[Phare de Brigneau]" src="phare-brigneau-featured-image.jpg" width=50%> 
