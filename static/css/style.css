@@ -632,4 +632,7 @@ thead, tfoot, tr:nth-child(even) { background: #eee; }
   justify-content: center;
   align-items: center;
 }
-
+.medium-zoom-overlay,
+.medium-zoom-image--opened {
+  z-index: 999;
+}
