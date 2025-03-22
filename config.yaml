@@ -37,7 +37,22 @@ menu:
       name: Paysages
       url: /aquarelles/paysages 
       parent: Aquarelles
-      weight: 32  
+      weight: 32 
+    - pageRef: /carnet/ 
+      name: Carnets de voyages
+      url: /aquarelles/carnet_voyage 
+      parent: Aquarelles
+      weight: 33 
+    - pageRef: /affiche/ 
+      name: Affiches
+      url: /aquarelles/affiche 
+      parent: Aquarelles
+      weight: 34 
+    - pageRef: /faire-part/ 
+      name: Papeterie
+      url: /aquarelles/faire-part 
+      parent: Aquarelles
+      weight: 35 
     - pageRef: /localities/
       name: Par localité
       url: /localities/
