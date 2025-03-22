@@ -43,14 +43,14 @@ menu:
       url: /aquarelles/carnet_voyage 
       parent: Aquarelles
       weight: 33 
-    - pageRef: /affiche/ 
+    - pageRef: /affiches/ 
       name: Affiches
-      url: /aquarelles/affiche 
+      url: /aquarelles/affiches 
       parent: Aquarelles
       weight: 34 
-    - pageRef: /faire-part/ 
+    - pageRef: /faire-parts/ 
       name: Papeterie
-      url: /aquarelles/faire-part 
+      url: /aquarelles/faire-parts 
       parent: Aquarelles
       weight: 35 
     - pageRef: /localities/
