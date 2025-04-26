@@ -7,6 +7,7 @@ categories:
   - Naturaliste
 Localities:
   - La Réunion
+  - maldives
 Series:
   - marine_life
   - diversite_reunion
