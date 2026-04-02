@@ -21,13 +21,33 @@ Souvenirs de notre voyage de noces au sud des Maldives sur l'atol Addu. Découvr
   <div class='row justify-content-center'>
     <div class="carnet_2p_card">
       <div class="featured_img">
-        <img src="maldives-page-1-bis.jpg" alt="Watercolors of Muscat, Oman"/></div>
-      <div class="featured_txt" style="background-color: papayawhip">Arrivée au resort au sud des Maldives</div>
+        <img src="maldives-recto.png" alt="Watercolors of Canareef Resort, Maldives"/></div>
+      <div class="featured_txt" style="background-color: papayawhip">Recto de mon carnet dépliant</div>
     </div>
     <div class="carnet_2p_card">
       <div class="featured_img">
-        <img src="maldives-page-2-3.jpg" alt="Watercolors of Sultan Qaboos Grand Mosque Mosque, Oman"/></div>
+        <img src="maldives-verso.png" alt="Watercolors of Canareef Resort, Maldives"/></div>
+      <div class="featured_txt" style="background-color: papayawhip">Et le verso </div>
+    </div>
+    <div class="carnet_2p_card">
+      <div class="featured_img">
+        <img src="CV-page-1.jpg" alt="Watercolors of Sultan Qaboos Grand Mosque Mosque, Oman"/></div>
+      <div class="featured_txt" style="background-color: papayawhip">Arrivée à Canareef resort à l'atol Addu </div>
+    </div>
+    <div class="carnet_2p_card">
+      <div class="featured_img">
+        <img src="CV-pages-2-3.jpg" alt="Watercolors of Sultan Qaboos Grand Mosque Mosque, Oman"/></div>
       <div class="featured_txt" style="background-color: papayawhip">Résumé illustré d'une journée typique des vacances avec baignade et cocktail au couché de soleil </div>
+    </div>
+    <div class="carnet_2p_card">
+      <div class="featured_img">
+        <img src="CV-page-4.jpg" alt="Watercolors of Sultan Qaboos Grand Mosque Mosque, Oman"/></div>
+      <div class="featured_txt" style="background-color: papayawhip">A la découverte de la vie sous-marine. On a eu la chance de rencontrer les Raies Manta </div>
+    </div>
+    <div class="carnet_2p_card">
+      <div class="featured_img">
+        <img src="CV-page-5.jpg" alt="Watercolors of Sultan Qaboos Grand Mosque Mosque, Oman"/></div>
+      <div class="featured_txt" style="background-color: papayawhip">Les Maldives et ces plages de sables blancs </div>
     </div>
   </div>
 </div>
