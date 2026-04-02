@@ -1,5 +1,5 @@
 ---
-title: Afrique du Sud
+title: 2022 ~ Afrique du Sud
 author: ''
 date: ''
 slug: afrique-du-sud

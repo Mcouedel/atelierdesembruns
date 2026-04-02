@@ -1,5 +1,5 @@
 ---
-title: Oman
+title: 2024 ~ Oman
 author: ''
 date: ''
 slug: oman
