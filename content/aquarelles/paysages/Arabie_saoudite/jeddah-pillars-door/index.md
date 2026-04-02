@@ -5,7 +5,7 @@ categories:
   - Carte
   - Paysage
 Localities: 
-  - saudia-arabia
+  - saudi-arabia
 Series:
   - aesthetic_doors
   - jeddah_doors
