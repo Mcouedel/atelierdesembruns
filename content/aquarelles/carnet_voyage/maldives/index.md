@@ -47,7 +47,7 @@ Souvenirs de notre voyage de noces au sud des Maldives sur l'atol Addu. Découvr
     <div class="carnet_2p_card">
       <div class="featured_img">
         <img src="CV-page-5.jpg" alt="Watercolors of Sultan Qaboos Grand Mosque Mosque, Oman"/></div>
-      <div class="featured_txt" style="background-color: papayawhip">Les Maldives et ces plages de sables blancs </div>
+      <div class="featured_txt" style="background-color: papayawhip">Les Maldives et ses plages de sables blancs </div>
     </div>
   </div>
 </div>
