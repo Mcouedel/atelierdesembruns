@@ -636,3 +636,19 @@ thead, tfoot, tr:nth-child(even) { background: #eee; }
 .medium-zoom-image--opened {
   z-index: 999;
 }
+
+/* style for naturalist page*/
+.h1-naturalist {
+  color:#436f77; 
+  font-family: Georgia;
+  font-size: 150%;
+}
+.h2-naturalist {
+  font-family: Georgia;
+  font-size: 120%;
+  color: #a20c4c;
+  font-weight: 500;
+  margin-top: 15px;
+  margin-bottom:5px;
+  position: relative;
+}
