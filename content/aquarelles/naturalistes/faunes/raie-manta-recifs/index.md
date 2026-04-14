@@ -5,6 +5,7 @@ date: ''
 slug: "raie-manta-recifs"
 categories:
   - Naturaliste
+  - Carte
 Localities:
   - Maldives
 Series:

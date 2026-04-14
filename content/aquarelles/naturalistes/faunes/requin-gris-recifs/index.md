@@ -5,6 +5,7 @@ date: ''
 slug: "requin-gris-recifs"
 categories:
   - Naturaliste
+  - Carte
 Localities:
   - Maldives
 Series:

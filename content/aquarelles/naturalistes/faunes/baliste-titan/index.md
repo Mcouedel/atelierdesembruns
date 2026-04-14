@@ -5,6 +5,7 @@ date: ''
 slug: balsite-titan
 categories:
   - Naturaliste
+  - Carte
 Localities:
   - La Réunion
   - Maldives

@@ -5,6 +5,7 @@ date: ''
 slug: "diodon-hystrix"
 categories:
   - Naturaliste
+  - Carte
 Localities:
   - Mauritius
   - La Réunion
